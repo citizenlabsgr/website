@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/citizenlabsgr/homepage-v2.png?columns=all)](https://waffle.io/citizenlabsgr/homepage-v2?utm_source=badge)
 ## Citizen Labs Website Redesign
 
 **Slack:** #cl-website
