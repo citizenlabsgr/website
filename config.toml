@@ -1,0 +1,4 @@
+baseURL = "https://citizenlabs.org/"
+languageCode = "en-us"
+title = "Citizen Labs"
+theme = "universal"

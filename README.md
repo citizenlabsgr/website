@@ -11,6 +11,7 @@ Redesign of the Citizen Labs website.
 
 **Maintainers (people with write access):**
 * [@brandon](https://citizenlabs.slack.com/messages/@brandon/)
+* [@allen](https://citizenlabs.slack.com/messages/@allen/)
 
 **Data:** n/a
 
@@ -28,3 +29,4 @@ Redesign of the Citizen Labs website.
 * policy & engagement
 * strategy
 * user experience/interaction
+* Hugo framework
