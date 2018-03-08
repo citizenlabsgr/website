@@ -1,7 +1,7 @@
 baseURL = "https://citizenlabs.org/"
 languageCode = "en-us"
 title = "Citizen Labs"
-theme = "hugo-universal-theme"
+theme = "kube"
 
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
@@ -126,15 +126,3 @@ paginate = 10
       """
       latitude = "42.962995"
       longitude = "-85.669508"
-
-[Permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
-
-# Enable or disable top bar with social icons
-[params.topbar]
-    enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us at hello@citizenlabs.org.</p>
-      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
-      <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
-      </p>
-      """
