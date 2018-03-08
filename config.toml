@@ -2,3 +2,139 @@ baseURL = "https://citizenlabs.org/"
 languageCode = "en-us"
 title = "Citizen Labs"
 theme = "hugo-universal-theme"
+
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "en"
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = "UA-115392197-1"
+
+# Define the number of posts per page
+paginate = 10
+
+[menu]
+
+# Main menu
+
+[[menu.main]]
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Our Work"
+    url  = "/our_work/"
+    weight = 2
+
+[[menu.main]]
+    name = "Get Involved"
+    url  = "/get_involved/"
+    weight = 3
+
+[[menu.main]]
+    name = "News & Events"
+    url  = "/news_events/"
+    weight = 4
+
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    url  = "/about/"
+    weight = 5
+
+[[menu.main]]
+    name = "Contact"
+    url  = "/contact/"
+    weight = 6
+
+# Top bar social links menu
+
+[[menu.topbar]]
+    weight = 1
+    name = "GitHub"
+    url = "https://github.com/citizenlabsgr"
+    pre = "<i class='fa fa-2x fa-github'></i>"
+
+[[menu.topbar]]
+    weight = 2
+    name = "Meetup"
+    url = "https://www.meetup.com/Citizen-Labs/"
+    pre = "<i class='fa fa-2x fa-meetup'></i>"
+
+[[menu.topbar]]
+    weight = 3
+    name = "Slack"
+    url = "http://slackin-citizenlabs.herokuapp.com/"
+    pre = "<i class='fa fa-2x fa-slack'></i>"
+
+[[menu.topbar]]
+    weight = 4
+    name = "Facebook"
+    url = "https://www.facebook.com/citizenlabs"
+    pre = "<i class='fa fa-2x fa-facebook'></i>"
+
+[[menu.topbar]]
+    weight = 5
+    name = "Twitter"
+    url = "https://twitter.com/citizen_labs"
+    pre = "<i class='fa fa-2x fa-twitter'></i>"
+
+[[menu.topbar]]
+    weight = 6
+    name = "Email"
+    url = "mailto:hello@citizenlabs.org"
+    pre = "<i class='fa fa-2x fa-envelope'></i>"
+
+[params]
+    viewMorePostLink = "/blog/"
+    author = "Citizen Labs"
+    defaultKeywords = ["citizen labs", "open data", "grand rapids", "open source"]
+    defaultDescription = "Empowering citizens to improve their communities and local government."
+
+    # Google Maps API key (if not set will default to not passing a key.)
+    googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
+
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "default"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    #
+    # Enable the contact form by entering your Formspree.io email
+    email = "hello@citizenlabs.org"
+
+    about_us = "<p>Empowering citizens to improve their communities and local government.</p>"
+    copyright = "Copyright (c) 2018, Citizen Labs; all rights reserved."
+
+    # Format dates with Go's time formatting
+    date_format = "January 2, 2006"
+
+    logo = "img/Logo-01.png"
+    address = """<p><strong>Citizen Labs</strong>
+        <br>Grand Rapids, Michigan
+        <br>
+        <strong>United States</strong>
+      </p>
+      """
+      latitude = "42.962995"
+      longitude = "-85.669508"
+
+[Permalinks]
+    blog = "/blog/:year/:month/:day/:filename/"
+
+# Enable or disable top bar with social icons
+[params.topbar]
+    enable = true
+    text = """<p class="hidden-sm hidden-xs">Contact us at hello@citizenlabs.org.</p>
+      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
+      <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
+      </p>
+      """
