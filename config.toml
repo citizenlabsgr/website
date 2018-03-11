@@ -1,59 +1,35 @@
-baseURL = "/"
-languageCode = "en-us"
 title = "Citizen Labs"
-theme = "kube"
-description = "Empowering citizens to improve their communities and local government."
-defaultKeywords = ["citizen labs", "open data", "grand rapids", "open source"]
-Paginate = 4
+baseURL = "https://citienlabs.org"
+languageCode = "en-us"
+theme = "ananke"
+themesDir = "../.."
 
-[Params]
-  RSSLink = "/index.xml"
-  author = "Citizen Labs" # add your company name
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = "UA-115392197-1"
+enableRobotsTXT = true
 
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = "/img/favicon/favicon"
+  description = "Empowering citizens to improve their communities and local government."
+  defaultKeywords = ["citizen labs", "open data", "grand rapids", "open source"]
   github = "https://github.com/citizenlabsgr" # add your github profile name
-  twitter = "" # add your twitter profile
+  twitter = "https://twitter.com/citizen_labs" # add your twitter profile
   email = "hello@citizenlabs.org"
   meetup = "https://www.meetup.com/Citizen-Labs/"
   slack = "http://slackin-citizenlabs.herokuapp.com/"
   facebook = "https://www.facebook.com/citizenlabs"
-
-
-
-# Enable Google Analytics by entering your tracking code
-googleAnalytics = "UA-115392197-1"
-
-
-[menu]
-
-# Main menu
-
-[[menu.main]]
-    name = "Home"
-    url  = "/"
-    weight = 1
-
-[[menu.main]]
-    name = "Our Work"
-    url  = "/our_work/"
-    weight = 2
-
-[[menu.main]]
-    name = "Get Involved"
-    url  = "/get_involved/"
-    weight = 3
-
-[[menu.main]]
-    name = "News & Events"
-    url  = "/news_events/"
-    weight = 4
-
-[[menu.main]]
-    name = "About"
-    identifier = "about"
-    url  = "/about/"
-    weight = 5
-
-[[menu.main]]
-    name = "Contact"
-    url  = "/contact/"
-    weight = 6
+  instagram = ""
+  youtube = ""
+  linkedin = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "static/images/light-festival.jpg"
+  recent_posts_number = 2
