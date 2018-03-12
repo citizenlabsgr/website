@@ -2,7 +2,7 @@ title = "Notre-Dame de Paris"
 baseURL = "https://example.com"
 languageCode = "en-us"
 theme = "ananke"
-themesDir = 
+themesDir = "../.."
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
