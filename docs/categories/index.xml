@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Citizen Labs</title>
-    <link>https://citienlabs.org/categories/</link>
+    <link>https://citizenlabsgr.github.io/homepage-v2/categories/</link>
     <description>Recent content in Categories on Citizen Labs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://citienlabs.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://citizenlabsgr.github.io/homepage-v2/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
