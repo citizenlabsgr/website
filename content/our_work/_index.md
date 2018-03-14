@@ -1,7 +1,7 @@
 ---
 title: "Our Work"
 description:
-featured_image: ''
+featured_image: '/images/workshop.jpg'
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec placerat tempor nisi at laoreet. Cras orci justo, rutrum nec volutpat vitae, vehicula nec urna. Suspendisse mauris massa, malesuada et nibh quis, bibendum consequat nunc. Cras auctor nisi est. Pellentesque condimentum purus et mi placerat, non tristique ligula tristique. Aliquam arcu enim, vulputate nec dui eu, mattis ultrices nibh. Etiam libero neque, gravida ac convallis sed, rhoncus vitae eros. Quisque ut porta leo.
 
