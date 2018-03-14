@@ -2,7 +2,8 @@
 title: "About"
 description: "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.
 — Margaret Mead."
-featured_image: ''
+featured_image: ""
+
 ---
 
 Welcome to Citizen Labs, a place for innovation and citizen engagement focused on improving our community.

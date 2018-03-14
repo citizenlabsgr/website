@@ -6,7 +6,6 @@ theme = "ananke"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = "UA-115392197-1"
 enableRobotsTXT = true
@@ -31,5 +30,33 @@ enableRobotsTXT = true
   linkedin = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  featured_image = "/images/hero-light-festival.jpg"
+  featured_image = "/images/workshop.jpg"
   recent_posts_number = 2
+
+  [[menu.main]]
+      name = "Get Involved"
+      title = "Get Involved"
+      weight = -110
+      identifier = "get_involved"
+      url = "/get_involved/"
+
+  [[menu.main]]
+      name = "Our Work"
+      title = "Our Work"
+      weight = -110
+      identifier = "our_work"
+      url = "/our_work/"
+
+  [[menu.main]]
+      name = "About"
+      title = "About"
+      weight = -110
+      identifier = "about"
+      url = "/about/"
+
+  [[menu.main]]
+      name = "News"
+      title = "News"
+      weight = -110
+      identifier = "post"
+      url = "/post/"
