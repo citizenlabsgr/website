@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News &amp; Events on Citizen Labs</title>
+    <link>https://citienlabs.org/post/</link>
+    <description>Recent content in News &amp; Events on Citizen Labs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Mar 2018 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://citienlabs.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>You are a GO for launch</title>
+      <link>https://citienlabs.org/post/test-6/</link>
+      <pubDate>Thu, 08 Mar 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://citienlabs.org/post/test-6/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec placerat tempor nisi at laoreet. Cras orci justo, rutrum nec volutpat vitae, vehicula nec urna. Suspendisse mauris massa, malesuada et nibh quis, bibendum consequat nunc. Cras auctor nisi est. Pellentesque condimentum purus et mi placerat, non tristique ligula tristique. Aliquam arcu enim, vulputate nec dui eu, mattis ultrices nibh. Etiam libero neque, gravida ac convallis sed, rhoncus vitae eros. Quisque ut porta leo.</description>
+    </item>
+    
+    <item>
+      <title>Shoulder to shoulder with friends</title>
+      <link>https://citienlabs.org/post/test-5/</link>
+      <pubDate>Sat, 09 Sep 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://citienlabs.org/post/test-5/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec placerat tempor nisi at laoreet. Cras orci justo, rutrum nec volutpat vitae, vehicula nec urna. Suspendisse mauris massa, malesuada et nibh quis, bibendum consequat nunc. Cras auctor nisi est. Pellentesque condimentum purus et mi placerat, non tristique ligula tristique. Aliquam arcu enim, vulputate nec dui eu, mattis ultrices nibh. Etiam libero neque, gravida ac convallis sed, rhoncus vitae eros. Quisque ut porta leo.</description>
+    </item>
+    
+    <item>
+      <title>Remember when we would meet and code at Founders?</title>
+      <link>https://citienlabs.org/post/test-4/</link>
+      <pubDate>Wed, 09 Aug 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://citienlabs.org/post/test-4/</guid>
+      <description>Lorem beer dolor sit amet, consectetur adipiscing elit. Donec placerat tempor nisi at laoreet. Cras orci justo, rutrum nec volutpat vitae, vehicula nec urna. Suspendisse mauris massa, malesuada et nibh quis, bibendum consequat nunc. Cras auctor nisi est. Pellentesque condimentum purus et mi placerat, non tristique ligula tristique. Aliquam arcu enim, vulputate nec dui eu, mattis ultrices nibh. Etiam libero neque, gravida ac convallis sed, rhoncus vitae eros. Quisque ut porta leo.</description>
+    </item>
+    
+    <item>
+      <title>Will we always eat pizza?</title>
+      <link>https://citienlabs.org/post/test-3/</link>
+      <pubDate>Fri, 09 Jun 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://citienlabs.org/post/test-3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec placerat tempor nisi at laoreet. Cras orci justo, rutrum nec volutpat vitae, vehicula nec urna. Suspendisse mauris massa, malesuada et nibh quis, bibendum consequat nunc. Cras auctor nisi est. Pellentesque condimentum purus et mi placerat, non tristique ligula tristique. Aliquam arcu enim, vulputate nec dui eu, mattis ultrices nibh. Etiam libero neque, gravida ac convallis sed, rhoncus vitae eros. Quisque ut porta leo.</description>
+    </item>
+    
+    <item>
+      <title>Make The City You Want</title>
+      <link>https://citienlabs.org/post/test-2/</link>
+      <pubDate>Thu, 09 Mar 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://citienlabs.org/post/test-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec placerat tempor nisi at laoreet. Cras orci justo, rutrum nec volutpat vitae, vehicula nec urna. Suspendisse mauris massa, malesuada et nibh quis, bibendum consequat nunc. Cras auctor nisi est. Pellentesque condimentum purus et mi placerat, non tristique ligula tristique. Aliquam arcu enim, vulputate nec dui eu, mattis ultrices nibh. Etiam libero neque, gravida ac convallis sed, rhoncus vitae eros. Quisque ut porta leo.</description>
+    </item>
+    
+    <item>
+      <title>Get Engaged</title>
+      <link>https://citienlabs.org/post/test-1/</link>
+      <pubDate>Thu, 09 Feb 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://citienlabs.org/post/test-1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec placerat tempor nisi at laoreet. Cras orci justo, rutrum nec volutpat vitae, vehicula nec urna. Suspendisse mauris massa, malesuada et nibh quis, bibendum consequat nunc. Cras auctor nisi est. Pellentesque condimentum purus et mi placerat, non tristique ligula tristique. Aliquam arcu enim, vulputate nec dui eu, mattis ultrices nibh. Etiam libero neque, gravida ac convallis sed, rhoncus vitae eros. Quisque ut porta leo.</description>
+    </item>
+    
+  </channel>
+</rss>

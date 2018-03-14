@@ -3,7 +3,7 @@ baseURL = "https://citienlabs.org"
 languageCode = "en-us"
 theme = "ananke"
 
-
+publishDir = "docs"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number

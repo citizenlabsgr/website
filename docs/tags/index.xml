@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Citizen Labs</title>
+    <link>https://citienlabs.org/tags/</link>
+    <description>Recent content in Tags on Citizen Labs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Mar 2017 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://citienlabs.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open Data Engagement</title>
+      <link>https://citienlabs.org/tags/open-data-engagement/</link>
+      <pubDate>Thu, 09 Mar 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://citienlabs.org/tags/open-data-engagement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Data Engagement Beer</title>
+      <link>https://citienlabs.org/tags/open-data-engagement-beer/</link>
+      <pubDate>Sat, 09 Sep 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://citienlabs.org/tags/open-data-engagement-beer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Data Engagement Brewpub</title>
+      <link>https://citienlabs.org/tags/open-data-engagement-brewpub/</link>
+      <pubDate>Wed, 09 Aug 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://citienlabs.org/tags/open-data-engagement-brewpub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Data Engagement Grand Rapids</title>
+      <link>https://citienlabs.org/tags/open-data-engagement-grand-rapids/</link>
+      <pubDate>Thu, 08 Mar 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://citienlabs.org/tags/open-data-engagement-grand-rapids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Data Engagement Pizza</title>
+      <link>https://citienlabs.org/tags/open-data-engagement-pizza/</link>
+      <pubDate>Fri, 09 Jun 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://citienlabs.org/tags/open-data-engagement-pizza/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
