@@ -36,14 +36,14 @@ enableRobotsTXT = true
   [[menu.main]]
       name = "Get Involved"
       title = "Get Involved"
-      weight = -110
+      weight = -140
       identifier = "get_involved"
       url = "/get_involved/"
 
   [[menu.main]]
       name = "Our Work"
       title = "Our Work"
-      weight = -110
+      weight = -130
       identifier = "our_work"
       url = "/our_work/"
 
@@ -57,6 +57,6 @@ enableRobotsTXT = true
   [[menu.main]]
       name = "News"
       title = "News"
-      weight = -110
+      weight = -120
       identifier = "post"
       url = "/post/"
