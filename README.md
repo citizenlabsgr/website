@@ -1,6 +1,16 @@
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/citizenlabsgr/homepage-v2.png?columns=all)](https://waffle.io/citizenlabsgr/homepage-v2?utm_source=badge)
 # Citizen Labs Website Redesign
 
+**Up and Running:**
+* Hey thanks for stopping by, first you will need to install the Hugo CLI. If you are using MacOS you can use: `brew install hugo`
+* Next clone in the repo locally: `git clone https://github.com/citizenlabsgr/homepage-v2.git`
+* `cd` ino the directory.
+* Running `hugo` will compile the site into a web ready viewable format.
+* For local dev run `hugo server` to have live reload while working on it.
+* By default we have it running on `http://localhost:1313/homepage-v2/` copy this into your browser URL to see all the amazing changes you make.
+
+Nice you rockstar! You've got it all set up.
+
 **Slack:** #cl-website
 
 **Project Description:**
