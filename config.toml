@@ -32,6 +32,9 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/workshop.jpg"
   recent_posts_number = 2
+  logo = "img/common/Logo-02.png"
+
+[menu]
 
   [[menu.main]]
       name = "Get Involved"
