@@ -35,3 +35,8 @@
     {{ partial "svg/meetup.svg" (dict "size" $icon_size) }}
   </a>
 {{ end }}
+{{ with .Site.Params.slack }}
+  <a href="{{ . }}" class="link-transition slack link dib z-999 pt3 pt0-l mr2" title="Slack link">
+    {{ partial "svg/slack.svg" (dict "size" $icon_size) }}
+  </a>
+{{ end }}
