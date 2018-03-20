@@ -63,3 +63,10 @@ enableRobotsTXT = true
       weight = -120
       identifier = "post"
       url = "/post/"
+
+  [[menu.main]]
+      name = "Contact"
+      title = "Contact"
+      weight = -100
+      identifier = "contact"
+      url = "/contact/"

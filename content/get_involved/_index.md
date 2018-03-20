@@ -1,10 +1,22 @@
 ---
 title: "Get Involved"
-description:
+description: "Create the community you would love."
 featured_image: '/images/workshop.jpg'
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec placerat tempor nisi at laoreet. Cras orci justo, rutrum nec volutpat vitae, vehicula nec urna. Suspendisse mauris massa, malesuada et nibh quis, bibendum consequat nunc. Cras auctor nisi est. Pellentesque condimentum purus et mi placerat, non tristique ligula tristique. Aliquam arcu enim, vulputate nec dui eu, mattis ultrices nibh. Etiam libero neque, gravida ac convallis sed, rhoncus vitae eros. Quisque ut porta leo.
 
-Nunc ac rhoncus tellus, non vulputate sem. Mauris pellentesque odio eget elit consequat feugiat. Sed non tellus sit amet enim gravida mattis. Mauris tempor in tellus a sagittis. Etiam elit arcu, vestibulum nec massa ullamcorper, ultricies iaculis risus. Phasellus nisl ligula, bibendum eu turpis blandit, fringilla faucibus nunc. Morbi egestas quam eget nunc vestibulum dignissim. Sed sodales finibus libero, vel hendrerit enim varius quis. Pellentesque vel dignissim quam, a viverra mauris. Donec porta nec arcu at tincidunt. Proin varius libero quis lacus sollicitudin euismod. Suspendisse cursus luctus urna, dapibus pulvinar lacus pellentesque eu.
 
-Mauris consequat ex neque, eget laoreet purus porttitor sit amet. Duis molestie pulvinar volutpat. Donec mollis eros erat, in accumsan elit pharetra vitae. Nulla facilisi. Nunc dictum efficitur eros ut lacinia. Nam malesuada ex et porttitor rutrum. Pellentesque est est, ornare ut gravida sit amet, viverra at eros. Fusce fermentum ultricies metus a aliquam. Nunc fermentum leo eget lacus bibendum, ut maximus orci sagittis. Nam id finibus nisi, eget eleifend mi.
+## Want To Help Your City? Good, we could use your help.
+
+Work on your own project, join an ongoing project, or start researching a new opportunity.
+
+Activities of Citizen Labs, such as "hack nights" are open events where individuals and groups of individuals can work, share, and learn in an inclusive environment; where everyone is treated respectfully.
+
+Citizen Labs has a Code of Conduct that applies to our activities, events, and digital forums. We do not tolerate discrimination or harassment of any kind.
+
+## Come To Our Meetings
+
+Check out our Facebook page for the next location and time. We meet the first and third Tuesday of every month. Some meetings are focused on a specific project, at others we organize our efforts and brainstorm new projects. Our meetings are casual and everyone is welcome to join. Food and drink are often involved.
+
+## Get Involved Online
+
+Much of our work gets done in between meetings online. All of our projects and additional information about Citizen Labs are available on Github. Slack is used as our primary communication tool, join the conversation and chat with us.
