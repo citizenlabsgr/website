@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Data Engagement on Citizen Labs</title>
+    <link>https://citizenlabsgr.github.io/homepage-v2/tags/open-data-engagement/</link>
+    <description>Recent content in Open Data Engagement on Citizen Labs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Mar 2017 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://citizenlabsgr.github.io/homepage-v2/tags/open-data-engagement/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Make The City You Want</title>
+      <link>https://citizenlabsgr.github.io/homepage-v2/post/test-2/</link>
+      <pubDate>Thu, 09 Mar 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://citizenlabsgr.github.io/homepage-v2/post/test-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec placerat tempor nisi at laoreet. Cras orci justo, rutrum nec volutpat vitae, vehicula nec urna. Suspendisse mauris massa, malesuada et nibh quis, bibendum consequat nunc. Cras auctor nisi est. Pellentesque condimentum purus et mi placerat, non tristique ligula tristique. Aliquam arcu enim, vulputate nec dui eu, mattis ultrices nibh. Etiam libero neque, gravida ac convallis sed, rhoncus vitae eros. Quisque ut porta leo.</description>
+    </item>
+    
+    <item>
+      <title>Get Engaged</title>
+      <link>https://citizenlabsgr.github.io/homepage-v2/post/test-1/</link>
+      <pubDate>Thu, 09 Feb 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://citizenlabsgr.github.io/homepage-v2/post/test-1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec placerat tempor nisi at laoreet. Cras orci justo, rutrum nec volutpat vitae, vehicula nec urna. Suspendisse mauris massa, malesuada et nibh quis, bibendum consequat nunc. Cras auctor nisi est. Pellentesque condimentum purus et mi placerat, non tristique ligula tristique. Aliquam arcu enim, vulputate nec dui eu, mattis ultrices nibh. Etiam libero neque, gravida ac convallis sed, rhoncus vitae eros. Quisque ut porta leo.</description>
+    </item>
+    
+  </channel>
+</rss>
