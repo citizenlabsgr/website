@@ -10,10 +10,10 @@
 
       <p>We work together with our community to use open data and open source technology to promote transparency, better understand problems, make better choices, and provide solutions that work.</p>
 
-      <p>We are developers, designers, data geeks, leaders, and idea-makers who volunteer to help local and state governments, and civic organizations.</p>
+      <p>We are developers, designers, data geeks, leaders, and idea-makers who volunteer to help local/state governments and civic organizations improve.</p>
   </section>
 
-
+  {{ partial "get_involved.html" . }}
 
   {{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
   {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}

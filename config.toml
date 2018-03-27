@@ -29,19 +29,22 @@ enableRobotsTXT = true
   youtube = ""
   linkedin = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  featured_image = "/images/workshop.jpg"
+  background_color_class = "bg-orange"
   recent_posts_number = 2
+  # removed empty featured image so that sub pages would not automatically include featured image:   featured_image =
   logo = "img/common/Logo-02.png"
+
+[params.get_involved]
+    enable = true
 
 [menu]
 
   [[menu.main]]
-      name = "Get Involved"
-      title = "Get Involved"
+      name = "Join Us"
+      title = "Join Us"
       weight = -140
-      identifier = "get_involved"
-      url = "/get_involved/"
+      identifier = "join_us"
+      url = "/join_us/"
 
   [[menu.main]]
       name = "Our Work"

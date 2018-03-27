@@ -1,11 +1,11 @@
 ---
-title: "Get Involved"
-description: "Create the community you would love."
-featured_image: '/images/workshop.jpg'
+title: "Join Us"
+description:
+featured_image:
 ---
+"Create the community you would love."
 
-
-## Want To Help Your City? Good, we could use your help.
+## Want To Help Your City? Good, we can use your help.
 
 Work on your own project, join an ongoing project, or start researching a new opportunity.
 

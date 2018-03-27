@@ -1,7 +1,7 @@
 ---
 title: "Our Work"
-description:
-featured_image: '/images/workshop.jpg'
+description: ""
+featured_image: 
 ---
 
 ## Under Active Development
