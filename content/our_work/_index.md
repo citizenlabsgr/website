@@ -1,17 +1,28 @@
 ---
 title: "Our Work"
 description: ""
-featured_image: 
+featured_image:
 ---
 
-## Under Active Development
+### How We Do It
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrJwZqwa8KIahHR6?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="1000" style="background: transparent; border: 1px solid #ccc;"></iframe>
+We use modern tools and practices to improve how decisions are made and services delivered. We use the following guidelines when working on projects:
 
-## Live Projects
+- Design with users, not for them
+- Invite participation and work in the open
+- Use data to drive decisions
+- Start small and continuously improve
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrJwZqwa8KIahHR6?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="1000" style="background: transparent; border: 1px solid #ccc;"></iframe>
+View projects by status: [Active Development](#dev) | [Live](#live) | [Discovery](#discovery)
 
-## All Projects
+## <a name="dev">Projects Under Active Development</a>
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shr3ZpBSCAIHPJhLr?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shru6Nl8OxRNfnt6g?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="850" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+## <a name="live">Projects that are Live</a>
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrJwZqwa8KIahHR6?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="850" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+## <a name="discovery">Projects in Discovery Phase</a>
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shru6Nl8OxRNfnt6g?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="850" style="background: transparent; border: 1px solid #ccc;"></iframe>
