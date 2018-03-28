@@ -1,7 +1,7 @@
 ---
 title: "Our Work"
 description: ""
-featured_image:
+featured_image: '/images/grparks.png'
 ---
 
 ### How We Do It

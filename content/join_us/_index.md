@@ -3,7 +3,11 @@ title: "Join Us"
 description:
 featured_image:
 ---
-"Create the community you would love."
+## What We Do
+
+We ask questions. We experiment and sometimes fail, but understand that learning cannot happen without failure. We apply what we learn and work to always make improvements.
+
+We come together in-person to share successes, seek support, and work on individual and group projects. When we are not together in-person, we work together online.
 
 ## Want To Help Your City? Good, we can use your help.
 
