@@ -1,7 +1,7 @@
 ---
 title: "Join Us"
 description:
-featured_image:
+featured_image: '/images/hero-hacknight.png'
 ---
 ## What We Do
 

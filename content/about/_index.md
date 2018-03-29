@@ -1,7 +1,7 @@
 ---
 title: "About Citizen Labs"
 description:
-featured_image: 
+featured_image: '/images/group.jpg'
 ---
 
 Welcome to Citizen Labs, a place for innovation and citizen engagement focused on improving our community.
