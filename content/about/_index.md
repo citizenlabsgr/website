@@ -3,9 +3,35 @@ title: "About Citizen Labs"
 description:
 featured_image: '/images/group.jpg'
 ---
+Citizen Labs works together with our entire community to promote transparency, better understand problems, and support informed decisions. We apply open data and open source technology, convene civic volunteers, and engage community leadership to create data-driven solutions.
 
-Welcome to Citizen Labs, a place for innovation and citizen engagement focused on improving our community.
+Our volunteer community runs and drives all Citizen Labs projects! We highly encourage all to become involved and contribute. We believe from our neighborhoods to our cities there's always more room for improvement.
 
-We work together with our community to use open data and open source technology to promote transparency, better understand problems, make better choices, and provide solutions that work.
+Whether it's starting a new project or proposing a new tool for the community to use, don't hesitate to just go for it!
 
-We are developers, designers, data geeks, leaders, and idea-makers who volunteer to help local and state governments, and civic organizations.
+## We are Open
+
+**open organization:** Instead of bosses, we have [guides](https://github.com/citizenlabsgr/read-first/blob/master/guide-role-description.md) and [ambassadors](https://github.com/citizenlabsgr/read-first/blob/master/project-ambassador.md). Conversations take place on [Slack instead](http://slackin-citizenlabs.herokuapp.com/) of email so that everyone can follow along. We also put a priority on documentation, for this we use [Github](https://github.com/citizenlabsgr). On Github we document our projects, [how we work](https://github.com/citizenlabsgr/read-first), along with our [bylaws and board minutes](https://github.com/citizenlabsgr/community).
+
+**open source:** We develop solutions that are open to other cities and communities to use. In turn we will often use other's open source project to jump start our work. Using open source technology allows us to stand on the shoulders of others, deploying proven solutions faster and cheaper.
+
+## Our Team
+
+We are an all-volunteer organization. Our Board helps coordinate and set priorities for Citizen Labs efforts.
+
+- Chair: Allen Clark
+- Vice Chair: Brandon Klotz
+- Treasurer: Joel Anderson
+- Secretary: Max Dillivan
+- Jace Browning
+- Traci Montgomery
+- Lee Mueller
+
+Interested in joining the team? Learn about the [ways you can help](https://github.com/citizenlabsgr/read-first), and then let us know.
+
+Below are some specific needs we have:
+
+- **Policy Guide**: Work with communities and local governments on the goals of transparency, open data, empowerment, and community engagement.
+- **Storyteller**: Share our story with the world.
+- **Design Thinker**: Help us stay focused on the needs of people while we innovate as a team and with projects.
+- **Ambassador**: Build community partnerships and focus on making Citizen Labs a welcoming organization.
