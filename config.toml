@@ -2,7 +2,6 @@ title = "Citizen Labs"
 baseURL = "https://citizenlabsgr.github.io/homepage-v2/"
 languageCode = "en-us"
 theme = "ananke"
-
 publishDir = "docs"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"

@@ -1,5 +1,5 @@
 ---
-title: "We Love West Michigan."
-description: ""
-featured_image: '/images/workshop.jpg'
+title: "We Love Where Our City."
+description: "Let's make it better, together."
+featured_image: ''
 ---

@@ -1,7 +1,10 @@
 ---
-title: "Our Work"
-description: ""
-featured_image: '/images/grparks.png'
+title: Our Work
+description:
+type: page
+menu:
+main: {}
+
 ---
 
 ### How We Do It

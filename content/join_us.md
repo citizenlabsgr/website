@@ -1,7 +1,9 @@
 ---
-title: "Join Us"
+title: Join Us
 description:
-featured_image: '/images/hero-hacknight.png'
+type: page
+menu:
+main: {}
 ---
 ## What We Do
 

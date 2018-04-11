@@ -1,8 +1,11 @@
 ---
-title: "About Citizen Labs"
+title: About Citizen Labs
 description:
-featured_image: '/images/group.jpg'
+type: page
+menu:
+main: {}
 ---
+
 Citizen Labs works together with our entire community to promote transparency, better understand problems, and support informed decisions. We apply open data and open source technology, convene civic volunteers, and engage community leadership to create data-driven solutions.
 
 Our volunteer community runs and drives all Citizen Labs projects! We highly encourage all to become involved and contribute. We believe from our neighborhoods to our cities there's always more room for improvement.
