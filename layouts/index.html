@@ -1,19 +1,19 @@
 {{ define "main" }}
-  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
-    {{ .Content }}
-  </article>
 
-  <section class="mw5 mw8-ns center bg-light-gray pa3 ph5-ns">
-    <h1 class="mt0">Let's make it better, together.</h1>
-    <p>We are a place for innovation and citizen engagement focused on improving our community.</p>
+<section class="mw5 mw8-ns center bg-light-gray pa3 ph5-ns">
+  <h1 class="mt0">Let's make it better, together.</h1>
+  <p>We are a place for innovation and citizen engagement focused on improving our community.</p>
 
-      <p>We work together with our community to use open data and open source technology to promote transparency, better understand problems, make better choices, and provide solutions that work.</p>
+    <p>We work together with our community to use open data and open source technology to promote transparency, better understand problems, make better choices, and provide solutions that work.</p>
 
-      <p>We are developers, designers, data geeks, leaders, and idea-makers who volunteer to help local/state governments and civic organizations improve.</p>
-  </section>
+    <p>We are developers, designers, data geeks, leaders, and idea-makers who volunteer to help local/state governments and civic organizations improve.</p>
+</section>
 
   {{ partial "get_involved.html" . }}
 
+  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
+    {{ .Content }}
+  </article>
   {{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
   {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
   {{/* Create a variable with that section to use in multiple places. */}}
@@ -63,8 +63,5 @@
       {{ end }}
 
       </div>
-
-
   {{ end }}
-
 {{ end }}
