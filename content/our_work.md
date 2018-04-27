@@ -21,12 +21,12 @@ View projects by status: [Active Development](#dev) | [Live](#live) | [Discovery
 
 ## <a name="dev">Projects Under Active Development</a>
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shru6Nl8OxRNfnt6g?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="850" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shr4HJMugxeGdQa4e?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="850" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## <a name="live">Projects that are Live</a>
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrJwZqwa8KIahHR6?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="850" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shru6Nl8OxRNfnt6g?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="850" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-## <a name="discovery">Projects in Discovery Phase</a>
+## <a name="discovery">Projects Proposed or in Discovery Phase</a>
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shru6Nl8OxRNfnt6g?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="850" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrB8RpH2KcDcH190?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="850" style="background: transparent; border: 1px solid #ccc;"></iframe>
