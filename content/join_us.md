@@ -1,6 +1,7 @@
 ---
 title: Join Us
 description:
+featured_image: "/images/workshop2.jpg"
 type: page
 menu:
 main: {}
@@ -9,20 +10,18 @@ main: {}
 
 We ask questions. We experiment and sometimes fail, but understand that learning cannot happen without failure. We apply what we learn and work to always make improvements.
 
-We come together in-person to share successes, seek support, and work on individual and group projects. When we are not together in-person, we work together online.
+We come together in-person to share successes, seek support, and work on individual and group projects. When we are not together in-person, we work together online. Citizen Labs has a [Code of Conduct](/conduct/) that applies to all of our activities, events, and digital forums. We do not tolerate discrimination or harassment of any kind.
 
-## Want To Help Your City? Good, we can use your help.
+## Get Involved
 
-Work on your own project, join an ongoing project, or start researching a new opportunity.
+1. Sign up on [Meetup](https://www.meetup.com/Citizen-Labs/) and learn about upcoming Hack Nights. Once you sign up you will get reminders for upcoming meetings.
+2. Join us on [Slack](http://slackin-citizenlabs.herokuapp.com/).
+3. Come to a Hack Night.
 
-Activities of Citizen Labs, such as "hack nights" are open events where individuals and groups of individuals can work, share, and learn in an inclusive environment; where everyone is treated respectfully.
+## What Happens At Hack Nights
 
-Citizen Labs has a Code of Conduct that applies to our activities, events, and digital forums. We do not tolerate discrimination or harassment of any kind.
+**6:00 pm** Socialize and Food
 
-## Come To Our Meetings
+**6:15 pm** Welcome, Introductions, and Announcements
 
-Check out our Facebook page for the next location and time. We meet the first and third Tuesday of every month. Some meetings are focused on a specific project, at others we organize our efforts and brainstorm new projects. Our meetings are casual and everyone is welcome to join. Food and drink are often involved.
-
-## Get Involved Online
-
-Much of our work gets done in between meetings online. All of our projects and additional information about Citizen Labs are available on Github. Slack is used as our primary communication tool, join the conversation and chat with us.
+**6:30 - 9:00 pm** Working on Projects

@@ -1,6 +1,7 @@
 ---
 title: Our Work
 description:
+featured_image: "/images/grparks.jpg"
 type: page
 menu:
 main: {}
