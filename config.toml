@@ -1,5 +1,5 @@
 title = "Citizen Labs"
-baseURL = "/"
+baseURL = "/homepage-v2/"
 languageCode = "en-us"
 theme = "ananke"
 publishDir = "docs"
