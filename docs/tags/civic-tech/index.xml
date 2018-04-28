@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Civic Tech on Citizen Labs</title>
+    <link>https://citizenlabs.org/tags/civic-tech/</link>
+    <description>Recent content in Civic Tech on Citizen Labs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jan 2018 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://citizenlabs.org/tags/civic-tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2018 Opportunities</title>
+      <link>https://citizenlabs.org/post/2018-01-24_priorities/</link>
+      <pubDate>Wed, 24 Jan 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://citizenlabs.org/post/2018-01-24_priorities/</guid>
+      <description>2017 was an exciting year for Citizen Labs. We grew as an organization, spending a great deal of energy in creating a strong foundation that can deliver on our mission.
+We have set bold goals to deliver on our mission.
+Citizen Labs works together with our entire community to promote transparency, better understand problems, and support informed decisions.   And to be purposeful in choosing the opportunities that may cross our path.</description>
+    </item>
+    
+  </channel>
+</rss>

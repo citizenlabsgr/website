@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Citizen Labs</title>
+    <link>https://citizenlabs.org/tags/</link>
+    <description>Recent content in Tags on Citizen Labs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jan 2018 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://citizenlabs.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Citizen Labs</title>
+      <link>https://citizenlabs.org/tags/citizen-labs/</link>
+      <pubDate>Wed, 24 Jan 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://citizenlabs.org/tags/citizen-labs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Civic Tech</title>
+      <link>https://citizenlabs.org/tags/civic-tech/</link>
+      <pubDate>Wed, 24 Jan 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://citizenlabs.org/tags/civic-tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Civic Tech Citizen Labs</title>
+      <link>https://citizenlabs.org/tags/civic-tech-citizen-labs/</link>
+      <pubDate>Wed, 25 Apr 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://citizenlabs.org/tags/civic-tech-citizen-labs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Civic Tech Grand Rapids Citizen Labs Open Budget</title>
+      <link>https://citizenlabs.org/tags/civic-tech-grand-rapids-citizen-labs-open-budget/</link>
+      <pubDate>Fri, 02 Feb 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://citizenlabs.org/tags/civic-tech-grand-rapids-citizen-labs-open-budget/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

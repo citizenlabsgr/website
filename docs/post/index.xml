@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News &amp; Events on Citizen Labs</title>
+    <link>https://citizenlabs.org/post/</link>
+    <description>Recent content in News &amp; Events on Citizen Labs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Apr 2018 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://citizenlabs.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Happy Birthday: Citizen Labs</title>
+      <link>https://citizenlabs.org/post/2018-04-17_happy_birthday/</link>
+      <pubDate>Wed, 25 Apr 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://citizenlabs.org/post/2018-04-17_happy_birthday/</guid>
+      <description>Citizen Labs has much to celebrate! It was just one year ago when our application to become 501c3 nonprofit was approved. We have seen tremendous growth as measured by budget, hack night involvement, organization, community feedback, and partnerships.
+By The Numbers  102 Slack members 41 Active Slack users 172 Meetup members 219 Facebook followers 4 Deployed Projects  Accomplishments January - March: Our efforts were heavily focused on creating the organization.</description>
+    </item>
+    
+    <item>
+      <title>FY2018 Budget Added to Open Budget: GR</title>
+      <link>https://citizenlabs.org/post/2018-02-02_open_budget/</link>
+      <pubDate>Fri, 02 Feb 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://citizenlabs.org/post/2018-02-02_open_budget/</guid>
+      <description>Interested in the City of Grand Rapids&amp;rsquo; budget, but don&amp;rsquo;t have time to thumb through the 326 page document? A great place to start in learning more about the nearly $530 Million budget is by visiting Open Budget: Grand Rapids.
+What&amp;rsquo;s New?  Open Budget: Grand Rapids now includes the FY2018 budget information that was approved by the City Council in June 2017.
+ An interactive timeline of the budget process.</description>
+    </item>
+    
+    <item>
+      <title>2018 Opportunities</title>
+      <link>https://citizenlabs.org/post/2018-01-24_priorities/</link>
+      <pubDate>Wed, 24 Jan 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://citizenlabs.org/post/2018-01-24_priorities/</guid>
+      <description>2017 was an exciting year for Citizen Labs. We grew as an organization, spending a great deal of energy in creating a strong foundation that can deliver on our mission.
+We have set bold goals to deliver on our mission.
+Citizen Labs works together with our entire community to promote transparency, better understand problems, and support informed decisions.   And to be purposeful in choosing the opportunities that may cross our path.</description>
+    </item>
+    
+  </channel>
+</rss>

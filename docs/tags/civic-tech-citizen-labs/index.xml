@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Civic Tech Citizen Labs on Citizen Labs</title>
+    <link>https://citizenlabs.org/tags/civic-tech-citizen-labs/</link>
+    <description>Recent content in Civic Tech Citizen Labs on Citizen Labs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Apr 2018 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://citizenlabs.org/tags/civic-tech-citizen-labs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Happy Birthday: Citizen Labs</title>
+      <link>https://citizenlabs.org/post/2018-04-17_happy_birthday/</link>
+      <pubDate>Wed, 25 Apr 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://citizenlabs.org/post/2018-04-17_happy_birthday/</guid>
+      <description>Citizen Labs has much to celebrate! It was just one year ago when our application to become 501c3 nonprofit was approved. We have seen tremendous growth as measured by budget, hack night involvement, organization, community feedback, and partnerships.
+By The Numbers  102 Slack members 41 Active Slack users 172 Meetup members 219 Facebook followers 4 Deployed Projects  Accomplishments January - March: Our efforts were heavily focused on creating the organization.</description>
+    </item>
+    
+  </channel>
+</rss>
