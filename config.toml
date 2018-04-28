@@ -1,5 +1,5 @@
 title = "Citizen Labs"
-baseURL = "https://citizenlabsgr.github.io/homepage-v2/"
+baseURL = "https://citizenlabs.org"
 languageCode = "en-us"
 theme = "ananke"
 publishDir = "docs"
