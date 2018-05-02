@@ -5,7 +5,7 @@ theme = "ananke"
 publishDir = "public"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 3
 googleAnalytics = "UA-115392197-1"
 enableRobotsTXT = true
 
@@ -32,6 +32,7 @@ enableRobotsTXT = true
   recent_posts_number = 3
   # removed empty featured image so that sub pages would not automatically include featured image:   featured_image =
   logo = "img/common/Logo-02.png"
+  body_classes = "helvetica bg-near-white"
 
 [params.get_involved]
     enable = true
