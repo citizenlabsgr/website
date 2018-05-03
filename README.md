@@ -1,4 +1,5 @@
-[![Waffle.io - Issues in progress](https://badge.waffle.io/citizenlabsgr/homepage.png?label=in%20progress&title=In%20Progress)](http://waffle.io/citizenlabsgr/homepage)
+
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/citizenlabsgr/homepage.svg?columns=all)](https://waffle.io/citizenlabsgr/homepage)
 
 # Citizen Labs Website Redesign
 
