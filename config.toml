@@ -15,7 +15,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = "/img/favicon/favicon"
+  favicon = "/img/favicon/favicon-32x32.png"
   description = "Empowering citizens to improve their communities and local government."
   defaultKeywords = ["citizen labs", "open data", "grand rapids", "open source"]
   github = "https://github.com/citizenlabsgr" # add your github profile name
