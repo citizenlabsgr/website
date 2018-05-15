@@ -10,10 +10,10 @@
 * Running `hugo` will compile the site into a web ready viewable format.
 * For local dev run `hugo server` to have live reload while working on it.
 * By default we have it running on `http://localhost:1313/` copy this into your browser URL to see all the amazing changes you make.
-* When ready to production (e.g. to have Google Analytics show up), run `HUGO_ENV=production` before your build command. For example: +```
-+```
+* When ready to production (e.g. to have Google Analytics show up), run `HUGO_ENV=production` before your build command. For example: ```
+```
 HUGO_ENV=production hugo
-+```
+```
 +
 
 Nice you rockstar! You've got it all set up.
