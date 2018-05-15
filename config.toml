@@ -17,7 +17,7 @@ enableRobotsTXT = true
 [params]
   favicon = "img/favicon/favicon-32x32.png"
   description = "Empowering citizens to improve their communities and local government."
-  defaultKeywords = ["citizen labs", "open data", "grand rapids", "open source"]
+  defaultKeywords = ["citizen labs", "open data", "grand rapids", "open source", "open budget"]
   github = "https://github.com/citizenlabsgr" # add your github profile name
   twitter = "https://twitter.com/citizen_labs" # add your twitter profile
   email = "hello@citizenlabs.org"
