@@ -4,7 +4,7 @@ install:
   - go get -v github.com/gohugoio/hugo
 
 script:
-  - hugo --verbose
+  - HUGO_ENV=production hugo --verbose
   - echo citizenlabs.org > public/CNAME
 
 after_success: >
