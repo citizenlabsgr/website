@@ -15,8 +15,12 @@
 ```
 HUGO_ENV=production hugo
 ```
-
 Nice you rockstar! You've got it all set up.
+
+**Production**
+* Production build for our website is being done by Travis.
+* After change, create Pull Request instead of bulding site locally and uploading.
+* Once Pull Request is committed Travis will create the build and update website.
 
 **Slack:** #cl-website
 
