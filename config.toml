@@ -24,7 +24,7 @@ enableRobotsTXT = true
   meetup = "https://www.meetup.com/Citizen-Labs/"
   slack = "http://slackin-citizenlabs.herokuapp.com/"
   facebook = "https://www.facebook.com/citizenlabs"
-  instagram = ""
+  instagram = "https://www.instagram.com/citizenlabs/"
   youtube = ""
   linkedin = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
