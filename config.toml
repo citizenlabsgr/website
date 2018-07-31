@@ -7,6 +7,7 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 Paginate = 3
 googleAnalytics = "UA-115392197-1"
+HUGO_ENV = production
 enableRobotsTXT = true
 
 [sitemap]
@@ -59,6 +60,14 @@ enableRobotsTXT = true
       weight = -110
       identifier = "about"
       url = "/about/"
+
+  [[menu.main]]
+      name = "Sponsors"
+      title = "Sponsors"
+      parent = "about"
+      identifier = "sponsors"
+      weight = -110
+      url = "/about/sponsors/"
 
   [[menu.main]]
       name = "News"

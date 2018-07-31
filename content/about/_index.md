@@ -3,7 +3,7 @@ title: About Citizen Labs
 description:
 featured_image: "/images/hero-hacknight.jpg"
 type: page
-menu:
+menu: ["main", "footer"]
 main: {}
 ---
 
