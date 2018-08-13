@@ -7,7 +7,6 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 Paginate = 3
 googleAnalytics = "UA-115392197-1"
-HUGO_ENV = production
 enableRobotsTXT = true
 
 [sitemap]
@@ -43,42 +42,34 @@ enableRobotsTXT = true
   [[menu.main]]
       name = "Join Us"
       title = "Join Us"
-      weight = -140
+      weight = 1
       identifier = "join_us"
       url = "/join_us/"
 
   [[menu.main]]
       name = "Our Work"
       title = "Our Work"
-      weight = -130
+      weight = 2
       identifier = "our_work"
       url = "/our_work/"
 
   [[menu.main]]
       name = "About"
-      title = "About"
-      weight = -110
+      title = "About Citizen Labs"
+      weight = 3
       identifier = "about"
       url = "/about/"
 
   [[menu.main]]
-      name = "Sponsors"
-      title = "Sponsors"
-      parent = "about"
-      identifier = "sponsors"
-      weight = -110
-      url = "/about/sponsors/"
-
-  [[menu.main]]
       name = "News"
       title = "News"
-      weight = -120
+      weight = 4
       identifier = "post"
       url = "/post/"
 
   [[menu.main]]
       name = "Contact"
       title = "Contact"
-      weight = -100
+      weight = 5
       identifier = "contact"
       url = "/contact/"
