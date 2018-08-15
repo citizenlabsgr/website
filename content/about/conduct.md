@@ -3,7 +3,7 @@ title:  "Code of Conduct"
 linktitle: Code of Conduct
 tags: []
 categories: []
-featured_image: ""
+featured_image: "/images/hero-hacknight.jpg"
 description: ""
 ---
 
