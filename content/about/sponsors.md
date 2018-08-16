@@ -1,5 +1,5 @@
 ---
-title: Our Sponsors
+title: Sponsors
 description:
 featured_image: "/images/hero-hacknight.jpg"
 type: page
