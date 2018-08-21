@@ -1,10 +1,9 @@
----
++++
 title: Sponsors
 description:
 featured_image: "/images/hero-hacknight.jpg"
 type: page
-parent: "About"
----
++++
 
 Thank you to all of our sponsors who make our work possible through their important contributions to Citizen Labs.
 

@@ -7,30 +7,18 @@
       {{ if .Site.Menus.main }}
         <ul class="pl0 mr3">
           {{ range .Site.Menus.main }}
-            {{ if .HasChildren }}
-              <div class="dropdown">
-              <div class="col-md-6">
-                <h1>About</h1>
-                  {{ range where $.Pages "Section" "About" }}
-                    <a href="{{.RelPermalink}}">{{.Params.title}}</a>
-                  {{ end }}
-              </div>
-              <div class="col-md-6">
-                <h1>Products</h1>
-                  {{ range where $.Pages "Section" "produkte" }}
-                    <a href="{{.RelPermalink}}">{{.Params.title}}</a>
-                  {{ end }}
-              </div>
-            </div>
-          </div>
-        {{ else }}
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }} page">
-              {{ .Name }}
-            </a>
-          </li>
+            <li class="list f5 f4-ns fw4 dib pr3">
+              <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }} page">
+                {{ .Name }}
+              </a>
+              {{ range .Children }}
+                <p class="list f5 w-100 hover-bg-white nl1">
+                  "HELLLOOOOOO"
+                </p>
+              {{ end }}
+
+            </li>
           {{ end }}
-        {{ end }}
         </ul>
       {{ end }}
       {{ partial "social-follow.html" . }}
