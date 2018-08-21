@@ -1,6 +1,7 @@
 ---
 title:  "Code of Conduct"
 linktitle: Code of Conduct
+parent: About
 tags: []
 categories: []
 featured_image: "/images/hero-hacknight.jpg"

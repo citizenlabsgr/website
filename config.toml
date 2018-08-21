@@ -73,3 +73,26 @@ enableRobotsTXT = true
       weight = 5
       identifier = "contact"
       url = "/contact/"
+
+
+
+  [[menu.header]]
+      weight = 1
+      parent = "About"
+      name = "Code of Conduct"
+      identifier = "conduct"
+      url = "/about/conduct/"
+
+  [[menu.header]]
+      weight = 2
+      parent = "About"
+      name = "Sponsors"
+      identifier = "sponsors"
+      url = "/about/sponsors/"
+
+  [[menu.header]]
+      weight = 3
+      parent = "About"
+      name = "Our Team"
+      identifier = "team"
+      url = "/about/team/"
