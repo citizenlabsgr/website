@@ -1,9 +1,9 @@
-+++
+---
 title: About Citizen Labs
-description:
+description: About page
 featured_image: "/images/hero-hacknight.jpg"
 type: page
-+++
+---
 
 Citizen Labs works together with our entire community to promote transparency, better understand problems, and support informed decisions. We apply open data and open source technology, convene civic volunteers, and engage community leadership to create data-driven solutions.
 

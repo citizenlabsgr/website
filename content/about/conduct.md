@@ -1,11 +1,11 @@
-+++
+---
 title:  "Code of Conduct"
 linktitle: Code of Conduct
 tags: []
 categories: []
 featured_image: "/images/hero-hacknight.jpg"
-description: ""
-+++
+description: Code of conduct page
+---
 
 ### Respect
 Citizen Labs is an intentionally positive community: that recognizes and celebrates creativity; collaboration of independent creators (and independence); and the diversity of people, cultures, and opinions that are a core strength of Citizen Labs.

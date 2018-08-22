@@ -4,24 +4,71 @@
       {{ .Site.Title }}
     </a>
     <div class="flex-l items-center">
-      {{ if .Site.Menus.main }}
-        <ul class="pl0 mr3">
-          {{ range .Site.Menus.main }}
-            <li class="list f5 f4-ns fw4 dib pr3">
-              <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }} page">
-                {{ .Name }}
-              </a>
-              {{ range .Children }}
-                <p class="list f5 w-100 hover-bg-white nl1">
-                  "HELLLOOOOOO"
-                </p>
-              {{ end }}
 
-            </li>
-          {{ end }}
-        </ul>
-      {{ end }}
+      {{ $currentPage := . }}
+      <!-- start .main-menu -->
+      <ul class="pl0 mr3">
+        {{ range .Site.Menus.main }}
+            {{ if .HasChildren }}
+                <li class="list f5 f4-ns fw4 dib pr3 {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+                    <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }} page">
+                        {{ .Pre }}
+                        <span>{{ .Name }}</span>
+                    </a>
+                    <span id="about_chevron"  class="fa fa-chevron-down"></span>
+                    <ul class="sub-menu dn pa0 w-33 center mt0">
+                        {{ range .Children }}
+                            <li class="db {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                                <a href="{{ .URL }}">{{ .Name }}</a>
+                            </li>
+                        {{ end }}
+                    </ul>
+                </li>
+            {{ else }}
+              <li class="list f5 f4-ns fw4 dib pr3">
+                <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }} page">
+                  {{ .Name }}
+                </a>
+              </li>
+                
+            {{ end }}
+        {{ end }}
+      </ul><!-- end /.main-menu -->
+
+
+
       {{ partial "social-follow.html" . }}
     </div>
   </div>
 </nav>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<script type="text/javascript" src="/javascript/dropdown.js"></script>
+<style type="text/css">
+  span.fa {
+    color: #FFF;
+  }
+  @media (max-width: 991px) {
+    ul.sub-menu {
+      display: block;
+    }
+  }
+  @media (min-width: 992px) {
+    ul.sub-menu:not(.dn){
+      position: absolute;
+      top: auto;
+      width: 100%;
+      max-width: 320px;
+      background: rgba(0,0,0,0.333);
+    }
+  }
+  ul.sub-menu li a {
+    color: #FFF;
+    display: block;
+    text-decoration: none;
+    padding: 8px;
+  }
+  ul.sub-menu li a:hover,
+  ul.sub-menu li a:focus {
+    background: rgba(0,0,0,0.7);
+  }
+</style>

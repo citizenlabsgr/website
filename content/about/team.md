@@ -1,9 +1,9 @@
-+++
+---
 title: Team
-description:
+description: Team page
 featured_image: "/images/hero-hacknight.jpg"
 type: page
-+++
+---
 
 We are an all-volunteer organization. Our Board helps coordinate and set priorities for Citizen Labs efforts.
 
