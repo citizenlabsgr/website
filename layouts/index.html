@@ -24,7 +24,7 @@
     {{/* Derive the section name  */}}
     {{ $section_name := index (.Site.Params.mainSections) 0 }}
 
-    <div class="pa3 pa4-ns w-100 w-70-ns center">
+    <div class="pa3 pa4-ns w-100 w-80-ns bg-white center">
       {{/* Use $section_name to get the section title. Use "with" to only show it if it exists */}}
        {{ with .Site.GetPage "section" $section_name }}
           <h1 class="flex-none">
@@ -57,7 +57,7 @@
 
         {{/* As above, Use $section_name to get the section title, and URL. Use "with" to only show it if it exists */}}
         {{ with .Site.GetPage "section" $section_name }}
-          <a href="{{ .URL }}" class="link db f6 pa2 br3 bg-mid-gray white dim w4 tc">All {{.Title }}</a>
+          <a href="{{ .URL }}" class="link db f6 pa2 br3 bg-mid white dim w4 tc">All {{.Title }}</a>
         {{ end }}
         </section>
       {{ end }}
