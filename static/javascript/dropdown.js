@@ -1,13 +1,15 @@
 
 // Script to hide/show menu
 window.addEventListener("load", function() {
-    var span = document.querySelector('#about_chevron');
+    var button = document.querySelector('#about_chevron');
     var menu = document.querySelector('ul.sub-menu');
-        span.addEventListener('click', function (event) {
+        button.addEventListener('click', function (event) {
             if (menu.classList.contains('dn')) {
                 menu.classList.remove('dn');
+                button.setAttribute("aria-expanded", "true");
             } else {
                 menu.classList.add('dn');
+                button.setAttribute("aria-expanded", "false");
             }
         }
     );
