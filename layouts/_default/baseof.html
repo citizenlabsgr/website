@@ -19,6 +19,10 @@
 
     <link href='{{ "dist/main.css" | absURL }}' rel='stylesheet' type="text/css" />
     <link href='{{ "css/custom.css" | absURL }}' rel='stylesheet' type="text/css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <script type="text/javascript" src='{{"/javascript/dropdown.js" | absURL }}'></script>
+
     {{ block "favicon" . }}
       {{ partial "site-favicon.html" . }}
     {{ end }}
