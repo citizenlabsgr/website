@@ -7,7 +7,7 @@
 
       {{ $currentPage := . }}
       <!-- start .main-menu -->
-      <ul class="pl0 mr3">
+      <ul class="pl0 mr3 site-menu">
         {{ range .Site.Menus.main }}
             {{ if .HasChildren }}
                 <li class="list f5 f4-ns fw4 dib pr3 {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
@@ -15,7 +15,7 @@
                         {{ .Pre }}
                         <span>{{ .Name }}</span>
                     </a>
-                    <span id="about_chevron"  class="fa fa-chevron-down"></span>
+                    <button id="about_chevron"><span class="fa fa-chevron-down"></span></button>
                     <ul class="sub-menu dn pa0 w-33 center mt0">
                         {{ range .Children }}
                             <li class="db {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
@@ -30,10 +30,11 @@
                   {{ .Name }}
                 </a>
               </li>
-                
+
             {{ end }}
         {{ end }}
-      </ul><!-- end /.main-menu -->
+      </ul>
+      <!-- end /.main-menu -->
 
 
 
@@ -41,34 +42,3 @@
     </div>
   </div>
 </nav>
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-<script type="text/javascript" src="/javascript/dropdown.js"></script>
-<style type="text/css">
-  span.fa {
-    color: #FFF;
-  }
-  @media (max-width: 991px) {
-    ul.sub-menu {
-      display: block;
-    }
-  }
-  @media (min-width: 992px) {
-    ul.sub-menu:not(.dn){
-      position: absolute;
-      top: auto;
-      width: 100%;
-      max-width: 320px;
-      background: rgba(0,0,0,0.333);
-    }
-  }
-  ul.sub-menu li a {
-    color: #FFF;
-    display: block;
-    text-decoration: none;
-    padding: 8px;
-  }
-  ul.sub-menu li a:hover,
-  ul.sub-menu li a:focus {
-    background: rgba(0,0,0,0.7);
-  }
-</style>
