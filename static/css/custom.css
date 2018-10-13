@@ -1,5 +1,6 @@
 .site-menu span.fa {
   color: #FFF;
+  font-size: 14px;
 }
 
 #about_chevron {
@@ -10,25 +11,17 @@
   display: inline;
   color: #FFF;
 }
-
-@media (max-width: 991px) {
-  .site-menu ul.sub-menu {
-    display: block;
-    font-family: helvetica neue,helvetica,sans-serif;
-  }
-}
-@media (min-width: 992px) {
   .site-menu ul.sub-menu:not(.dn){
-    position: absolute;
-    top: auto;
-    width: 100%;
-    max-width: 320px;
-    padding: 10px;
-    margin-left: -20px;
-    margin-top: 10px;
-    background: rgba(0,0,0,0.333);
-  }
+  position: absolute;
+  top: auto;
+  width: 100%;
+  max-width: 320px;
+  padding: 10px;
+  margin-left: -20px;
+  margin-top: 10px;
+  background: rgba(0,0,0,0.333);
 }
+
 .site-menu ul.sub-menu li a {
   color: #FFF;
   display: block;

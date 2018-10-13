@@ -15,8 +15,8 @@
                         {{ .Pre }}
                         <span>{{ .Name }}</span>
                     </a>
-                    <button id="about_chevron"><span class="fa fa-chevron-down"></span></button>
-                    <ul class="sub-menu dn pa0 w-33 center mt0">
+                    <button id="about_chevron" aria-haspopup="true" aria-controls="about-menu" aria-expanded="false" title="About us submenu"><span class="fa fa-chevron-down"></span></button>
+                    <ul class="sub-menu dn pa0 w-33 center mt0" id="about-menu">
                         {{ range .Children }}
                             <li class="db {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
                                 <a href="{{ .URL }}">{{ .Name }}</a>
