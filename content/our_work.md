@@ -1,5 +1,5 @@
 ---
-title: Our Work
+title: "Our Work"
 description:
 featured_image: "/images/grparks.jpg"
 type: page

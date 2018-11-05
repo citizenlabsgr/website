@@ -1,5 +1,5 @@
 ---
-title: Join Us
+title: "Join Us"
 description:
 featured_image: "/images/workshop2.jpg"
 type: page
