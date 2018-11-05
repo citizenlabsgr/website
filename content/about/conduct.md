@@ -4,7 +4,7 @@ linktitle: Code of Conduct
 tags: []
 categories: []
 featured_image: "/images/hero-hacknight.jpg"
-description: ""
+description: Code of conduct page
 ---
 
 ### Respect

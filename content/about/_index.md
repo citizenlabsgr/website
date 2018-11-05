@@ -1,6 +1,6 @@
 ---
 title: About Citizen Labs
-description:
+description: About page
 featured_image: "/images/hero-hacknight.jpg"
 type: page
 ---
