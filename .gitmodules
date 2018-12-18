@@ -1,0 +1,3 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/citizenlabsgr/gohugo-theme-ananke.git
