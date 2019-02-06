@@ -19,7 +19,7 @@ Nice you rockstar! You've got it all set up.
 
 **Production**
 * Production build for our website is being done by Travis.
-* After change, create Pull Request instead of bulding site locally and uploading.
+* After change, create Pull Request instead of building site locally and uploading.
 * Once Pull Request is committed Travis will create the build and update website.
 
 **Slack:** #cl-website
@@ -45,7 +45,7 @@ Updates to the beta site will take place after significant development changes.
 * We welcome contributions from first timers.
 * Browse our [help wanted issues](https://waffle.io/citizenlabsgr/homepage). See if there is anything that interests you.
 * Core maintainers and project guides are responsible for reviewing and merging all pull requests. In order to prevent frustrations with your first PR we recommend you reach out to our core maintainers who can help you through your first PR.
-* Updates to documentation or readme are greatly appreciated and make for a great first PR. They do not need to be discussed in advance and will be merged as soon as possible.
+* Updates to documentation or README are greatly appreciated and make for a great first PR. They do not need to be discussed in advance and will be merged as soon as possible.
 
 ## Skills
 * content design
