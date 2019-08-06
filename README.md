@@ -1,5 +1,3 @@
-
-[![Waffle.io - Columns and their card count](https://badge.waffle.io/citizenlabsgr/homepage.svg?columns=all)](https://waffle.io/citizenlabsgr/homepage)
 [![Build Status](https://travis-ci.org/citizenlabsgr/homepage.svg?branch=master)](https://travis-ci.org/citizenlabsgr/homepage)
 
 # Citizen Labs Website Redesign
