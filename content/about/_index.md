@@ -28,6 +28,7 @@ We are an all-volunteer organization. Our Board helps coordinate and set priorit
 - Jace Browning
 - Traci Montgomery
 - Lee Mueller
+- Sarah Titus
 
 Interested in joining the team? Learn about the [ways you can help](https://github.com/citizenlabsgr/read-first), and then let us know.
 
