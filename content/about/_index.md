@@ -42,5 +42,6 @@ Below are some specific needs we have:
 ## Our Partners
 
 We directly support several initiatives and programs across our community that directly relate to Citizen Labs' mission. These include: 
+
 - [Code for Good West Michigan](https://codeforgoodwm.org/)
 - [West Michigan Research Network](https://www.facebook.com/WestMichiganResearchNetwork/)
