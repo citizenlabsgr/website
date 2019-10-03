@@ -38,3 +38,9 @@ Below are some specific needs we have:
 - **Storyteller**: Share our story with the world.
 - **Design Thinker**: Help us stay focused on the needs of people while we innovate as a team and with projects.
 - **Ambassador**: Build community partnerships and focus on making Citizen Labs a welcoming organization.
+
+## Our Partners
+
+We directly support several initiatives and programs across our community that directly relate to Citizen Labs' mission. These include: 
+- [Code for Good West Michigan](https://codeforgoodwm.org/)
+- [West Michigan Research Network](https://www.facebook.com/WestMichiganResearchNetwork/)
