@@ -49,13 +49,13 @@ params:
   - title: About
     sublinks:
     - title: Code of Conduct
-      url: /about/conduct
+      url: /conduct
     - title: Sponsors
       url: /about/sponsor
     - title: Our Team
       url: /about/team
   - title: News
-    url: /
+    url: /post
   - title: Contact
     url: /
     button: true
