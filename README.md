@@ -5,7 +5,7 @@
 **Slack:** #cl-website
 
 **Project Description:**
-Redesign of the Citizen Labs website.
+Citizen Labs website.
 
 We are using [Hugo](https://themes.gohugo.io/), an open source static site generator written in Go. Hugo is a general-purpose website framework. Hugo provides improved performance, security and ease of use.
 
@@ -13,7 +13,9 @@ Updates to the beta site will take place after significant development changes.
 
 **Ongoing Development:**
 
-To address issues and functionality that have come up over time regarding the current website we have begun development on the `fresh-design` branch. 
+To address issues and functionality that have come up over time regarding the current website we have begun development on the `fresh-design` branch.
+
+More background on how Hugo works and [how to make changes to website.](contributing.md)
 
 **Project Guides:**  
 * [@allen](https://citizenlabs.slack.com/messages/@allen/)
