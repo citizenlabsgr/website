@@ -5,7 +5,9 @@ theme: hugo-fresh
 MetaDataFormat: yaml
 googleAnalytics: UA-115392197-1
 #Disables warningss
-disableKinds: ["page", "section", "taxonomy", "taxonomyTerm"]
+disableKinds:
+ -taxonomy
+ -taxonomyTerm
 
 
 params:
@@ -132,16 +134,18 @@ params:
     bulmalogo: false
     quicklinks:
       column1:
-        title: "Sponsored by Citizen Labs"
+        title: "Product"
         links:
-        - text: Code for Good
-          link: https://codeforgoodwm.org
-        - text: GR WebDev
-          link: https://www.facebook.com/GRWebDev/
-        - text: Pyladies
-          link: https://grandrapids.pyladies.com
-        - text: West Michigan Research Network
-          link: https://www.facebook.com/WestMichiganResearchNetwork/
+        - text: Discover features
+          link: /
+        - text: Why choose our product?
+          link: /
+        - text: Compare features
+          link: /
+        - text: Our roadmap
+          link: /
+        - text: AGB
+          link: /agb
       column2:
         title: "Docs"
         links:
