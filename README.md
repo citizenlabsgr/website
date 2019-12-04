@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/citizenlabsgr/homepage.svg?branch=master)](https://travis-ci.org/citizenlabsgr/homepage)
+[![Build Status](https://travis-ci.org/citizenlabsgr/website.svg?branch=master)](https://travis-ci.org/citizenlabsgr/website)
 
 # Citizen Labs Website Redesign
 
