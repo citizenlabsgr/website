@@ -1,0 +1,172 @@
+MetaDataFormat: yaml
+baseURL: 'http://citizenlabs.org/'
+disableKinds: '-taxonomy -taxonomyTerm'
+enableRobotsTXT: true
+googleAnalytics: UA-115392197-1
+languageCode: en-us
+params:
+  defaultKeywords:
+    - citizen labs
+    - open data
+    - grand rapids
+    - open source
+    - open budget
+  description: Empowering citizens to improve their communities and local government.
+  font:
+    name: Open Sans
+    sizes:
+      - 400
+      - 600
+  footer:
+    bulmalogo: false
+    logo: CL_Logo.png
+    quicklinks:
+      column1:
+        links:
+          - link: /
+            text: Discover features
+          - link: /
+            text: Why choose our product?
+          - link: /
+            text: Compare features
+          - link: /
+            text: Our roadmap
+          - link: /agb
+            text: AGB
+        title: Product
+      column2:
+        links:
+          - link: /
+            text: Get started
+          - link: /
+            text: User guides
+          - link: /
+            text: Admin guide
+          - link: /
+            text: Developers
+        title: Docs
+      column3:
+        links:
+          - link: /blog/first
+            text: Latest news
+          - link: /blog/second
+            text: Tech articles
+        title: Blog
+    socialmedia:
+      - icon: github
+        link: 'https://github.com/citizenlabsgr'
+      - icon: meetup
+        link: 'https://www.meetup.com/Citizen-Labs/'
+      - icon: facebook
+        link: 'https://www.facebook.com/citizenlabs'
+      - icon: twitter
+        link: 'https://twitter.com/citizen_labs'
+    socialmediatitle: Follow Us
+  hero:
+    buttonlink: join
+    buttontext: Get started
+    clientlogos:
+      - heart
+      - grwebdev
+      - pyladies
+      - wmrn
+    image: illustrations/worker.svg
+    subtitle: null
+    title: Let's Make Our Community Better Together
+  navbar:
+    - title: Join Us
+      url: /join
+    - title: Our Work
+      url: /our_work
+    - sublinks:
+        - title: Code of Conduct
+          url: /about/conduct
+        - title: Sponsors
+          url: /about/sponsor
+        - title: Our Team
+          url: /about/team
+      title: About
+    - title: News
+      url: /
+    - button: true
+      title: Contact
+      url: /
+  navbarlogo:
+    image: CL_Logo-04-orange.png
+    link: /
+  openGraph: true
+  section1:
+    subtitle: with great responsibility
+    tiles:
+      - buttonText: Free trial
+        icon: mouse-globe
+        text: This is some explanatory text that is on two rows
+        title: App builder
+        url: /
+      - buttonText: Get started
+        icon: laptop-cloud
+        text: This is some explanatory text that is on two rows
+        title: Cloud integration
+        url: /
+      - buttonText: Get started
+        icon: plug-cloud
+        text: This is some explanatory text that is on two rows
+        title: Add-ons & plugins
+        url: /
+    title: Great power comes
+  section2:
+    features:
+      - icon: laptop-globe
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare
+          magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa
+          sem. Etiam finibus odio quis feugiat facilisis.
+        title: Powerful and unified interface
+      - icon: doc-sync
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare
+          magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa
+          sem. Etiam finibus odio quis feugiat facilisis.
+        title: Cross-device synchronisation
+      - icon: mobile-feed
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare
+          magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa
+          sem. Etiam finibus odio quis feugiat facilisis.
+        title: Nomad system
+    subtitle: And we know it
+    title: You're here because you want the best
+  section3:
+    buttonLink: '#'
+    buttonText: Get started
+    image: illustrations/mockups/app-mockup.png
+    subtitle: To rule them all
+    title: One platform
+  section4:
+    clients:
+      - img: 1
+        job: Accountant
+        name: Irma Walters
+        quote: >-
+          Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc
+          minim appetere te usu, ea case duis scribentur has. Duo te consequat
+          elaboraret, has quando suavitate at.
+      - img: 2
+        job: Financial Analyst
+        name: John Bradley
+        quote: >-
+          Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc
+          minim appetere te usu, ea case duis scribentur has. Duo te consequat
+          elaboraret, has quando suavitate at.
+      - img: 3
+        job: HR Manager
+        name: Gary Blackman
+        quote: >-
+          Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc
+          minim appetere te usu, ea case duis scribentur has. Duo te consequat
+          elaboraret, has quando suavitate at.
+    subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
+    title: Our Clients love us!
+  section5: true
+theme: hugo-fresh
+title: Citizen Labs
