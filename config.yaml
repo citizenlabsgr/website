@@ -1,4 +1,4 @@
-baseURL: http://something-fresh.org/
+baseURL: http://citizenlabs.org/
 languageCode: en-us
 title: Citizen Labs
 theme: hugo-fresh
@@ -99,21 +99,21 @@ params:
     buttonText: Get started
     buttonLink: "#"
   section4:
-    title: Our Clients love us!
-    subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
+    title: Our Civic Partners Love Us!
+    subtitle:
     clients:
-    - name: Irma Walters
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Accountant
+    - name: Rosalyn Bliss
+      quote: THANK YOU so much for all of your help as we push to improve our digital city.
+      job: Mayor of Grand Rapids
       img: 1
-    - name: John Bradley
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Financial Analyst
-      img: 2
-    - name: Gary Blackman
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: HR Manager
+    - name:  Scott Buhrer
+      quote: The open budget website promotes a deeper understanding of the City budget... for our residents, officials and other stakeholders. I am grateful to the team for assisting us with set-up and maintenance of the site.
+      job: CFO, City of Grand Rapids
       img: 3
+    - name: Ruth Kelly
+      quote: We appreciate all of the hard work of the team and look forward to more solutions and opportunities as you engage with the city. We appreciate your having completed the task on time. The timing was excellent!
+      job: Commissioner, City of Grand Rapids
+      img: 4
   section5: true
   footer:
     # Logo (from /images/logos/___)
