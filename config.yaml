@@ -57,7 +57,7 @@ params:
   - title: News
     url: /post
   - title: Contact
-    url: /
+    url: /#contact
     button: true
   section1:
     title: Great power comes
