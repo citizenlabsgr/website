@@ -6,22 +6,17 @@ type: page
 menu:
 main: {}
 ---
-## What is Open Source?
 
-We ask questions. We experiment and sometimes fail, but understand that learning cannot happen without failure. We apply what we learn and work to always make improvements.
+From the [Open Data Handbook](https://opendatahandbook.org/glossary/en/terms/open-source/) we get the following definition...
 
-We come together in-person to share successes, seek support, and work on individual and group projects. When we are not together in-person, we work together online. Citizen Labs has a [Code of Conduct](/conduct/) that applies to all of our activities, events, and digital forums. We do not tolerate discrimination or harassment of any kind.
+<br>
 
-## Get Involved
+Software for which the source code is available under an open license. Not only can the software be used for free, but users with the necessary technical skills can inspect the source code, modify it and run their own versions of the code, helping to fix bugs, develop new features, etc. Some large open source software projects have thousands of volunteer contributors.
 
-1. Sign up on [Meetup](https://www.meetup.com/Citizen-Labs/) and learn about upcoming Hack Nights. Once you sign up you will get reminders for upcoming meetings.
-2. Join us on [Slack](https://join.slack.com/t/citizenlabs/shared_invite/enQtNTQ0Mjk1NjQ3NjcxLTBhMDcwNGU2NDExMzFiNWUyYjUxZjFkZTY5ODc4NTg1ZGNkNTJkYmIxNGUxNjA4NmMzM2VlYjBjZTI1NWRjMTQ).
-3. Come to a Hack Night.
+{{% subtitle5 "What it means in the real world." %}}
 
-## What Happens At Hack Nights
+When we develop and deploy a project that makes a positive difference in the Grand Rapids, we share the source code for the project. Think of the source code like a recipe. If another city has the same issue and likes our solution, they copy our source code and build the same solution for their city. Many times as a new city deploys the shared code they will make an improvement. These improvements can be shared with everyone that has the same recipe, or all the cities that have deployed the project.
 
-**6:00 pm** Socialize and Food
+<br>
 
-**6:15 pm** Welcome, Introductions, and Announcements
-
-**6:30 - 9:00 pm** Working on Projects
+Have more questions? Ask a Citizen Labs Guide.
