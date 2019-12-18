@@ -124,7 +124,7 @@ params:
     socialmedia:
     - link: https://github.com/citizenlabsgr
       # Icons are from Font Awesome
-      icon:
+      icon: github
     - link: https://www.meetup.com/Citizen-Labs/
       icon: meetup
     - link: https://www.facebook.com/citizenlabs
