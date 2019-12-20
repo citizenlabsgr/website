@@ -14,7 +14,7 @@ params:
  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy
-  defaultKeywords: ["citizen labs", "open data", "grand rapids", "open source", "open budget"]
+  defaultKeywords: ["citizen labs", "open data", "grand rapids", "open source", "open budget", "civictech", "civic tech"]
   description: Empowering citizens to improve their communities and local government.
   navbarlogo:
   # Logo (from static/images/logos/___)
@@ -48,6 +48,8 @@ params:
     url: /our_work
   - title: About
     sublinks:
+    - title: Citizen Labs Cohort
+      url: /about/cohort
     - title: Code of Conduct
       url: /conduct
     - title: Sponsors
@@ -134,15 +136,11 @@ params:
     bulmalogo: false
     quicklinks:
       column1:
-        title: "Product"
+        title: "About"
         links:
-        - text: Discover features
-          link: /
-        - text: Why choose our product?
-          link: /
-        - text: Compare features
-          link: /
-        - text: Our roadmap
+        - text: Citizen Labs Cohort
+          link: /about/cohort
+        - text: Code of Conduct
           link: /
         - text: AGB
           link: /agb
