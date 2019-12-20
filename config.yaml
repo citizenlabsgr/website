@@ -51,7 +51,7 @@ params:
     - title: Citizen Labs Cohort
       url: /about/cohort
     - title: Code of Conduct
-      url: /conduct
+      url: /about/conduct
     - title: Sponsors
       url: /about/sponsor
     - title: Our Team
@@ -141,7 +141,7 @@ params:
         - text: Citizen Labs Cohort
           link: /about/cohort
         - text: Code of Conduct
-          link: /
+          link: /about/conduct
         - text: AGB
           link: /agb
       column2:
