@@ -1,11 +1,9 @@
 ---
-title: Citizen Labs Cohort
+title: The Citizen Labs Cohort
 sidebar: true # or false to display the sidebar
 sidebarlogo: fresh-white-alt # From (static/images/logo/)
 include_footer: true
 ---
-
-{{% title3 "The Citizen Labs Cohort" %}}
 
 Community, technology, and empowerment are things that we strongly believe in. We also hope to make the biggest positive impact that we can.
 
@@ -24,10 +22,10 @@ Our Cohort includes:
 
 <div class="content">
   <ul>
-    <li>[Code for Good-West Michigan](https://codeforgoodwm.org/)</li>
-    <li>[GR Web Dev](https://www.meetup.com/grwebdev/)</li>
-    <li>[Pyladies-Grand Rapids](https://grandrapids.pyladies.com)</li>
-    <li>[West Michigan Research Network](https://www.facebook.com/WestMichiganResearchNetwork/)</li>
+    <li><a href="https://codeforgoodwm.org/" target="_blank">Code for Good-West Michigan</a></li>  
+    <li><a href="https://www.meetup.com/grwebdev/" target="_blank">GR Web Dev</a></li>
+    <li><a href="https://grandrapids.pyladies.com" target="_blank">Pyladies-Grand Rapids</a></li>
+    <li><a href="https://www.facebook.com/WestMichiganResearchNetwork/" target="_blank">West Michigan Research Network</a></li>
   </ul>
 </div>
 
