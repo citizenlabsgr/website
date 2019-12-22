@@ -11,7 +11,7 @@
 {{- $css := resources.Get $sass | toCSS $cssOpts }}
 <link rel="stylesheet" type="text/css" href="{{ $css.RelPermalink }}">
 {{- else }}
-{{- $css := resources.Get $sass | toCSS $cssOpts | fingerprint }}
+{{- $css := resources.Get $sass | toCSS $cssOpts | minify | fingerprint }}
 <link rel="stylesheet" type="text/css" href="{{ $css.RelPermalink }}">
 {{- end }}
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous">
