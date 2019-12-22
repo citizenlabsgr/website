@@ -17,7 +17,7 @@ To address issues and functionality that have come up over time regarding the cu
 
 More background on how Hugo works and [how to make changes to website.](contributing.md)
 
-**Project Guides:**  
+**Project Guides:**
 * [@allen](https://citizenlabs.slack.com/messages/@allen/)
 * [@brandon](https://citizenlabs.slack.com/messages/@brandon/)
 
@@ -33,10 +33,7 @@ More background on how Hugo works and [how to make changes to website.](contribu
 * Running `hugo` will compile the site into a web ready viewable format.
 * For local dev run `hugo server` to have live reload while working on it.
 * By default we have it running on `http://localhost:1313/` copy this into your browser URL to see all the amazing changes you make.
-* When ready to production (e.g. to have Google Analytics show up), run `HUGO_ENV=production` before your build command. For example:
-```
-HUGO_ENV=production hugo
-```
+
 Nice you rockstar! You've got it all set up.
 
 **Production**

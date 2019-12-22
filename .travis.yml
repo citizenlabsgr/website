@@ -1,12 +1,12 @@
 language: minimal
 
 install:
-  - wget https://github.com/gohugoio/hugo/releases/download/v0.60.0/hugo_0.60.0_Linux-64bit.deb
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.60.0/hugo_extended_0.60.0_Linux-64bit.deb
   - sudo dpkg -i hugo*.deb
   - hugo version
 
 script:
-  - HUGO_ENV=production hugo --verbose
+  - hugo --environment=production --verbose
   - echo citizenlabs.org > public/CNAME
 
 after_success: >
