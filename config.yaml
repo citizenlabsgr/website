@@ -82,13 +82,13 @@ params:
       url: /people
       buttonText: Learn more
   section2:
-    title: You're here because you want the best
-    subtitle: And we know it
+    title: We are proud of our work
+    subtitle: Here are some examples
     features:
-    - title: Powerful and unified interface
+    - title: Open Budget
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
       # Icon (from /images/illustrations/icons/___.svg)
-      icon: laptop-globe
+      icon:
     - title: Cross-device synchronisation
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
       icon: doc-sync
@@ -96,10 +96,10 @@ params:
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
       icon: mobile-feed
   section3:
-    title: One platform
-    subtitle: To rule them all
-    image: illustrations/mockups/app-mockup.png
-    buttonText: Get started
+    title: Recent Accomplishment
+    subtitle: Adopt A Drain - Lower Grand River Watershed
+    image: projects/adoptadrain.png
+    buttonText: Learn more
     buttonLink: "#"
   section4:
     title: Our Civic Partners Love Us!
