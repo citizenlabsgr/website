@@ -88,13 +88,13 @@ params:
     - title: Good Government & Elections
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
       # Icon (from /images/illustrations/icons/___.svg)
-      icon: test
+      icon: gov-01
     - title: City Open Budgets
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-      icon: doc-sync
-    - title: Become a Nonprofit
+      icon: budget-25
+    - title: Open Sourced Nonprofit
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-      icon: mobile-feed
+      icon: nonprofit-18
   section3:
     title: Recent Accomplishment
     subtitle: Adopt A Drain - Lower Grand River Watershed
