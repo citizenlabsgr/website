@@ -86,14 +86,14 @@ params:
     subtitle: Here are some examples
     features:
     - title: Good Government & Elections
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+      text: We are working on several projects to promote citizen participation in elections, voter registration, and an accurate census count.
       # Icon (from /images/illustrations/icons/___.svg)
       icon: gov-01
-    - title: City Open Budgets
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+    - title: Open City Budgets
+      text: Our Open Budget project promotes a deeper understanding of the city budget, so that citizens, officials, and other stakeholders can engage in more informed dialogue about how their city currently works and how it should in the future.
       icon: budget-25
     - title: Open Sourced Nonprofit
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+      text: This project outlines the steps and provides templates for all required forms to become a recognized 501c3 nonprofit based from the state of Michigan.
       icon: nonprofit-18
   section3:
     title: Recent Accomplishment
