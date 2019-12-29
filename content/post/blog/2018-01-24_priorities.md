@@ -1,7 +1,9 @@
 ---
 date: 2018-01-24T10:58:08-04:00
 description: "Delivering on our mission."
-featured_image: "/images/posts/hero-light-festival.jpg"
+sidebar: true
+sidebarlogo: fresh-white-alt
+include_footer: true
 tags: [civic tech,citizen labs]
 title: "2018 Opportunities"
 ---
