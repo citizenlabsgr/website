@@ -117,9 +117,7 @@ params:
     - link: https://github.com/citizenlabsgr
       icon: github
     - link: https://www.meetup.com/Citizen-Labs
-      # Meetup icon not available in Font Awesome 4.6.3
-      # icon: meetup
-      icon: calendar
+      icon: meetup
     - link: https://www.facebook.com/citizenlabs
       icon: facebook
     - link: https://twitter.com/citizen_labs
