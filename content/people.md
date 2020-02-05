@@ -19,4 +19,4 @@ We ask questions. We experiment and sometimes fail, but understand that learning
 
 <br>
 
-We come together in-person to share successes, seek support, and work on individual and group projects. When we are not together in-person, we work together online. Citizen Labs has a [Code of Conduct](/conduct/) that applies to all of our activities, events, and digital forums. We do not tolerate discrimination or harassment of any kind.
+We come together in-person to share successes, seek support, and work on individual and group projects. When we are not together in-person, we work together online. Citizen Labs has a [Code of Conduct](/about/conduct/) that applies to all of our activities, events, and digital forums. We do not tolerate discrimination or harassment of any kind.
