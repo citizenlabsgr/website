@@ -18,8 +18,8 @@ params:
   defaultKeywords: ["citizen labs", "open data", "grand rapids", "open source", "open budget", "civictech", "civic tech"]
   description: Empowering citizens to improve their communities and local government.
   navbarlogo:
-   image: logos/CL_Logo-04-orange.png
-   link: /
+    image: logos/CL_Logo-04-orange.png
+    link: /
   font:
     name: "Open Sans"
     sizes: [400,600]
@@ -50,8 +50,6 @@ params:
       url: /about/sponsor
     - title: Our Team
       url: /about/team
-  - title: News
-    url: /post
   - title: Contact
     url: /#contact
     button: true
@@ -101,7 +99,7 @@ params:
       quote: THANK YOU so much for all of your help as we push to improve our digital city.
       job: Mayor of Grand Rapids
       img: 1
-    - name:  Scott Buhrer
+    - name: Scott Buhrer
       quote: The open budget website promotes a deeper understanding of the City budget... for our residents, officials and other stakeholders. I am grateful to the team for assisting us with set-up and maintenance of the site.
       job: CFO, City of Grand Rapids
       img: 3
@@ -120,7 +118,7 @@ params:
       icon: meetup
     - link: https://www.facebook.com/citizenlabs
       icon: facebook
-    - link: https://twitter.com/citizen_labs
+    - link: https://twitter.com/@citizen_labs
       icon: twitter
     bulmalogo: false
     quicklinks:
@@ -131,23 +129,8 @@ params:
           link: /about/cohort
         - text: Code of Conduct
           link: /about/conduct
-        - text: AGB
-          link: /agb
       column2:
         title: "Docs"
         links:
         - text: Get started
-          link: /
-        - text: User guides
-          link: /
-        - text: Admin guide
-          link: /
-        - text: Developers
-          link: /
-      column3:
-        title: "Blog"
-        links:
-        - text: Latest news
-          link: /post
-        - text: Tech articles
-          link: /blog/second
+          link: https://github.com/citizenlabsgr/read-first
