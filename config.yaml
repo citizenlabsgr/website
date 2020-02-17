@@ -163,6 +163,6 @@ params:
         title: "Blog"
         links:
         - text: Latest news
-          link: /post
+          link: /blog/
         - text: Tech articles
           link: /blog/second
