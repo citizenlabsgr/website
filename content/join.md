@@ -10,7 +10,7 @@ We ask questions. We experiment and sometimes fail, but understand that learning
 
 <br>
 
-We come together in-person to share successes, seek support, and work on individual and group projects. When we are not together in-person, we work together online. Citizen Labs has a [Code of Conduct](/conduct/) that applies to all of our activities, events, and digital forums. We do not tolerate discrimination or harassment of any kind.
+We come together in-person to share successes, seek support, and work on individual and group projects. When we are not together in-person, we work together online. Citizen Labs has a [Code of Conduct](/about/conduct/) that applies to all of our activities, events, and digital forums. We do not tolerate discrimination or harassment of any kind.
 
 <br>
 
@@ -25,18 +25,14 @@ Join us on [Slack](https://join.slack.com/t/citizenlabs/shared_invite/enQtNTQ0Mj
 
 <br>
 
-{{% subtitle5 "Come to a Hack Night" %}}
-Come to a Hack Night.
-
+{{% title3 "Hacknights" %}}
+{{% subtitle5 "Code + Pizza" %}}
+1st Tuesday of every Monthly
 <br>
-
-{{% title3 "What Happens At Hack Nights" %}}
+<small>*unless on a Holiday</small>
 <br>
-
 **6:00 pm** Socialize and Food
-
 <br>
 **6:15 pm** Welcome, Introductions, and Announcements
-
 <br>
 **6:30 - 9:00 pm** Work on Projects. It is best to bring a computer.

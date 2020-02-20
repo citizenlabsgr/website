@@ -4,7 +4,7 @@ title: Citizen Labs
 theme: hugo-fresh
 MetaDataFormat: yaml
 googleAnalytics: UA-115392197-1
-#Disables warningss
+# Disables warnings
 disableKinds:
  -taxonomy
  -taxonomyTerm
@@ -14,37 +14,27 @@ markup:
       unsafe: true
 
 params:
- # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
-  # Used as meta data; describe your site to make Google Bots happy
   defaultKeywords: ["citizen labs", "open data", "grand rapids", "open source", "open budget", "civictech", "civic tech"]
   description: Empowering citizens to improve their communities and local government.
   navbarlogo:
-  # Logo (from static/images/logos/___)
-   image: logos/CL_Logo-04-orange.png
-   link: /
+    image: logos/CL_Logo-04-orange.png
+    link: /
   font:
     name: "Open Sans"
     sizes: [400,600]
   hero:
-    # Main hero title
     title: Let's Make Our Community Better Together
-    # Hero subtitle (optional)
     subtitle:
-    # Button text
     buttontext: Get started
-    # Where the main hero button links to
     buttonlink: "join"
-    # Hero image (from static/images/___)
     image: illustrations/worker.svg
-    # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
     - heart
     - grwebdev
     - pyladies
     - wmrn
     clientlink: /about/cohort
-  # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Join Us
     url: /join
@@ -90,7 +80,6 @@ params:
     features:
     - title: Good Government & Elections
       text: We are working on several projects to promote citizen participation in elections, voter registration, and an accurate census count.
-      # Icon (from /images/illustrations/icons/___.svg)
       icon: gov-01
     - title: Open City Budgets
       text: Our Open Budget project promotes a deeper understanding of city budgets, so that citizens, officials, and other stakeholders can engage in more informed dialogue about how their city currently works and how it should in the future.
@@ -112,7 +101,7 @@ params:
       quote: THANK YOU so much for all of your help as we push to improve our digital city.
       job: Mayor of Grand Rapids
       img: 1
-    - name:  Scott Buhrer
+    - name: Scott Buhrer
       quote: The open budget website promotes a deeper understanding of the City budget... for our residents, officials and other stakeholders. I am grateful to the team for assisting us with set-up and maintenance of the site.
       job: CFO, City of Grand Rapids
       img: 3
@@ -122,20 +111,16 @@ params:
       img: 4
   section5: true
   footer:
-    # Logo (from /images/logos/___)
     logo: CL_Logo.png
-    # Social Media Title
     socialmediatitle: Follow Us
-    # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
     - link: https://github.com/citizenlabsgr
-      # Icons are from Font Awesome
       icon: github
-    - link: https://www.meetup.com/Citizen-Labs/
+    - link: https://www.meetup.com/Citizen-Labs
       icon: meetup
     - link: https://www.facebook.com/citizenlabs
       icon: facebook
-    - link: https://twitter.com/citizen_labs
+    - link: https://twitter.com/@citizen_labs
       icon: twitter
     bulmalogo: false
     quicklinks:
@@ -166,3 +151,4 @@ params:
           link: /blog/
         - text:
           link:
+

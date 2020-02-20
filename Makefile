@@ -19,6 +19,10 @@ test: build
 run: install
 	hugo serve
 
+.PHONY: run-production
+run-production: build
+	sappy public --port=1313
+
 .PHONY: clean
 clean:
 	rm -rf themes/*
