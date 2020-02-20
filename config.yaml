@@ -61,7 +61,7 @@ params:
     - title: Our Team
       url: /about/team
   - title: News
-    url: /post/projects
+    url: /blog/
   - title: Contact
     url: /#contact
     button: true
