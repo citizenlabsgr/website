@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    {{ partial "meta.html" . }}
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    {{ partial "css.html" . }}
+  </head>
+<body>
+  <!-- Preloader -->
+  <div id="preloader">
+    <div id="status"></div>
+  </div>
+
+    {{ partial "single/single.html" . }}
+
+<div class="container">
+    {{ range .Pages }}
+        <div class="tile">
+            <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+        </div>
+    {{ end }}
+</div>
+
+<br>
+
+    {{ if .Params.include_footer }}
+    {{ partial "footer.html" . }}
+    {{ end }}
+
+        <!-- Back To Top Button -->
+        <div id="backtotop"><a href="#"></a></div>
+
+        {{ if .Params.sidebar }}
+        {{ partial "single/sidebar.html" . }}
+        {{ end }}
+
+        {{ partial "javascript.html" . }}
+  </body>
+</html>

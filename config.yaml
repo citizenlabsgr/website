@@ -50,6 +50,8 @@ params:
       url: /about/sponsor
     - title: Our Team
       url: /about/team
+  - title: News
+    url: /blog/
   - title: Contact
     url: /#contact
     button: true
@@ -129,8 +131,24 @@ params:
           link: /about/cohort
         - text: Code of Conduct
           link: /about/conduct
+        - text:
+          link:
       column2:
         title: "Docs"
         links:
-        - text: Get started
+        - text: Read First
           link: https://github.com/citizenlabsgr/read-first
+        - text: Governance
+          link: https://github.com/citizenlabsgr/community
+        - text: Start a Nonprofit
+          link: https://github.com/citizenlabsgr/opensourced-nonprofit
+        - text: GR Links
+          link: https://github.com/citizenlabsgr/links
+      column3:
+        title: "News"
+        links:
+        - text: Latest news
+          link: /blog/
+        - text:
+          link:
+
