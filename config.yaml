@@ -146,23 +146,23 @@ params:
           link: /about/cohort
         - text: Code of Conduct
           link: /about/conduct
-        - text: AGB
-          link: /agb
+        - text:
+          link:
       column2:
         title: "Docs"
         links:
-        - text: Get started
-          link: /
-        - text: User guides
-          link: /
-        - text: Admin guide
-          link: /
-        - text: Developers
-          link: /
+        - text: Read First
+          link: https://github.com/citizenlabsgr/read-first
+        - text: Governance
+          link: https://github.com/citizenlabsgr/community
+        - text: Start a Nonprofit
+          link: https://github.com/citizenlabsgr/opensourced-nonprofit
+        - text: GR Links
+          link: https://github.com/citizenlabsgr/links
       column3:
-        title: "Blog"
+        title: "News"
         links:
         - text: Latest news
           link: /blog/
-        - text: Tech articles
-          link: /blog/second
+        - text:
+          link:

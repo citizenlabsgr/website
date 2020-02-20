@@ -11,16 +11,17 @@
     <div id="status"></div>
   </div>
 
-
-
     {{ partial "single/single.html" . }}
 
-
+<div class="container">
     {{ range .Pages }}
-        <li>
+        <div class="tile">
             <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-        </li>
+        </div>
     {{ end }}
+</div>
+
+<br>
 
     {{ if .Params.include_footer }}
     {{ partial "footer.html" . }}
