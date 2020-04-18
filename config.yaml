@@ -57,7 +57,7 @@ params:
     button: true
   section1:
     title: How Do We Do It?
-    subtitle: the tools in our toolbox
+    subtitle: The tools in our toolbox
     tiles:
     - title: Open Data
       icon: mouse-globe
@@ -110,6 +110,7 @@ params:
       job: Commissioner, City of Grand Rapids
       img: 4
   section5: true
+  section6: true
   footer:
     logo: CL_Logo.png
     socialmediatitle: Follow Us
@@ -151,4 +152,3 @@ params:
           link: /blog/
         - text:
           link:
-
