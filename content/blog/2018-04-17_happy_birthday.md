@@ -1,7 +1,7 @@
 ---
 date: 2018-04-25T10:58:08-04:00
 description: "The First Year of Citizen Labs"
-featured_image: "/images/posts/annie-spratt-96533-unsplash.jpg"
+image: "/images/posts/annie-spratt-96533-unsplash.jpg"
 tags: ["civic tech, Citizen Labs"]
 title: "Happy Birthday: Citizen Labs"
 ---

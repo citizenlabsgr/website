@@ -5,35 +5,28 @@
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
     {{ partial "css.html" . }}
   </head>
-<body>
-  <!-- Preloader -->
-  <div id="preloader">
-    <div id="status"></div>
-  </div>
+  <body>
+    <!-- Preloader -->
+    <div id="preloader">
+      <div id="status"></div>
+    </div>
 
     {{ partial "single/single.html" . }}
-
-<div class="container">
-    {{ range .Pages }}
-        <div class="tile">
-            <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-        </div>
-    {{ end }}
-</div>
-
-<br>
+    {{ $posts := (where .Site.RegularPages "Section" "blog") }}
+    {{ partial "news.html" $posts }}
+    <br />
 
     {{ if .Params.include_footer }}
     {{ partial "footer.html" . }}
     {{ end }}
 
-        <!-- Back To Top Button -->
-        <div id="backtotop"><a href="#"></a></div>
+    <!-- Back To Top Button -->
+    <div id="backtotop"><a href="#"></a></div>
 
-        {{ if .Params.sidebar }}
-        {{ partial "single/sidebar.html" . }}
-        {{ end }}
+    {{ if .Params.sidebar }}
+    {{ partial "single/sidebar.html" . }}
+    {{ end }}
 
-        {{ partial "javascript.html" . }}
+    {{ partial "javascript.html" . }}
   </body>
 </html>

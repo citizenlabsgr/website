@@ -55,7 +55,7 @@ And to be purposeful in choosing the opportunities that may cross our path. We w
 
 - Evaluate current board composition and add two new board members to broaden board perspectives.
 
-- Develop and implement improved onboarding process for new attendees and volunteers. 	
+- Develop and implement improved onboarding process for new attendees and volunteers.
 
 - Increase board engagement to at least 75% of board members donating to the organization and regular attendance at board meetings (quorum achieved).
 
