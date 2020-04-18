@@ -1,12 +1,32 @@
-<div class="container rows">
+<div class="container rows mt-40">
     {{ range . }}
-        <article class="row mt-60">
-            <a class="title is-4 has-text-link" href="{{.Permalink}}">{{.Title}}</a>
-            <br />
-            <p class="subtitle is-7 is-uppercase has-text-weight-bold has-text-grey-dark">{{.Date.Format "2006-01-02"}}</p>
-            <p class="text is-6">
-              {{.Description}}
-            </p>
+        <article class="media icon-box">
+          {{ if .Page.Params.Image }}
+            <a href="{{.Permalink}}">
+              <figure class="media-left">
+                <p>
+                  <img src="{{.Page.Params.Image}}" height="200" width="300">
+                </p>
+              </figure>
+            </a>
+          {{ else }}
+            <a href="{{.Permalink}}">
+              <figure class="media-left">
+                <p>
+                  <img src="https://github.com/citizenlabsgr/website/blob/master/static/images/logos/CL_Logo.png?raw=true" height="200" width="300">
+                </p>
+              </figure>
+            </a>
+          {{ end }}
+          <div class="media-content mt-50">
+            <div class="content">
+              <p>
+                <a class="title is-4 has-text-link icon-box-title" href="{{.Permalink}}">{{.Title}}</a>
+                <p class="subtitle is-7 is-uppercase has-text-weight-bold has-text-grey-dark">{{.Date.Format "01-02-2006"}}</p>
+                <span class="icon-box-text">{{ .Description | markdownify }}</span>
+              </p>
+            </div>
+          </div>
         </article>
     {{ end }}
 </div>
