@@ -1,0 +1,9 @@
+<section class="section section-white is-medium">
+  <div class="container">
+    <div class="title-wrapper has-text-centered">
+      <a name="contact"><h2 class="title is-2 is-spaced">Recent News</h2></a>
+    </div>
+    {{ $posts := (where .Site.RegularPages "Section" "blog" | first 4) }}
+    {{ partial "news.html" $posts }}
+  </div>
+</section>
