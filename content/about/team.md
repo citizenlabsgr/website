@@ -10,7 +10,6 @@ We are an all-volunteer organization. Our Board helps coordinate and set priorit
 - Chair: Allen Clark
 - Vice Chair: Brandon Klotz
 - Treasurer: Joel Anderson
-- Secretary: Max Dillivan
 - Jace Browning
 - Traci Montgomery
 - Lee Mueller
