@@ -92,7 +92,7 @@ params:
     subtitle: Adopt A Drain - Lower Grand River Watershed
     image: projects/adoptadrain.png
     buttonText: Learn more
-    buttonLink: "#"
+    buttonLink: https://www.lgrow.org/adopt-a-drain
   section4:
     title: Our Civic Partners Love Us!
     subtitle:
@@ -117,7 +117,7 @@ params:
     socialmedia:
     - link: https://github.com/citizenlabsgr
       icon: github
-    - link: https://www.meetup.com/Citizen-Labs
+    - link: https://www.meetup.com/citizenlabs
       icon: meetup
     - link: https://www.facebook.com/citizenlabs
       icon: facebook
@@ -148,7 +148,7 @@ params:
       column3:
         title: "News"
         links:
-        - text: Latest news
+        - text: Our Blog
           link: /blog/
         - text:
           link:

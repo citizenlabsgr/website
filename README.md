@@ -9,14 +9,6 @@ Citizen Labs website.
 
 We are using [Hugo](https://themes.gohugo.io/), an open source static site generator written in Go. Hugo is a general-purpose website framework. Hugo provides improved performance, security and ease of use.
 
-Updates to the beta site will take place after significant development changes.
-
-**Ongoing Development:**
-
-To address issues and functionality that have come up over time regarding the current website we have begun development on the `fresh-design` branch.
-
-More background on how Hugo works and [how to make changes to website.](contributing.md)
-
 **Project Guides:**
 * [@allen](https://citizenlabs.slack.com/messages/@allen/)
 * [@brandon](https://citizenlabs.slack.com/messages/@brandon/)
@@ -40,7 +32,6 @@ Nice you rockstar! You've got it all set up.
 * Production build for our website is being done by Travis.
 * After change, create Pull Request instead of building site locally and uploading.
 * Once Pull Request is committed Travis will create the build and update website.
-
 
 **Data:** n/a
 
