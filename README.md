@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/citizenlabsgr/website.svg?branch=master)](https://travis-ci.org/citizenlabsgr/website)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/citizenlabsgr/website/GitHub%20Pages)](https://github.com/citizenlabsgr/website/actions?query=branch%3Amain)
 
-# Citizen Labs Website Redesign
+# Citizen Labs Website
 
 **Slack:** #cl-website
 
