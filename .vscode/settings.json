@@ -1,6 +1,31 @@
 {
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        ".hugo_build.lock": true,
+    },
     "cSpell.words": [
         "adoptadrain",
-        "sidebarlogo"
+        "Buhrer",
+        "bulmalogo",
+        "buttonlink",
+        "buttontext",
+        "clientlink",
+        "clientlogos",
+        "goldmark",
+        "grwebdev",
+        "navbarlogo",
+        "peaceiris",
+        "pyladies",
+        "quicklinks",
+        "sidebarlogo",
+        "socialmedia",
+        "socialmediatitle",
+        "sublinks",
+        "wmrn"
     ]
 }

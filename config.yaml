@@ -15,7 +15,7 @@ markup:
 
 params:
   openGraph: true
-  defaultKeywords: ["citizen labs", "open data", "grand rapids", "open source", "open budget", "civictech", "civic tech"]
+  defaultKeywords: ["citizen labs", "open data", "grand rapids", "open source", "open budget", "civic tech"]
   description: Empowering citizens to improve their communities and local government.
   navbarlogo:
     image: logos/CL_Logo-04-orange.png
@@ -66,7 +66,7 @@ params:
       buttonText: Learn more
     - title: Open Source Software
       icon: laptop-cloud
-      text: Commmon problems often allow for common solutions.
+      text: Common problems often allow for common solutions.
       url: /open_source
       buttonText: Learn more
     - title: Empowering People

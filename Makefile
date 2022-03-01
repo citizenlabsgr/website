@@ -10,7 +10,7 @@ themes/.flag: .gitmodules
 
 .PHONY: build
 build: install
-	hugo --environment=production --verbose
+	hugo --verbose
 
 .PHONY: test
 test: build
@@ -25,4 +25,4 @@ run-production: build
 
 .PHONY: clean
 clean:
-	rm -rf themes/*
+	rm -rf public themes
