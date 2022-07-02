@@ -9,13 +9,13 @@ We are an all-volunteer organization. Our Board helps coordinate and set priorit
 
 <br>
 
-- Chair: Allen Clark
-- Vice Chair: Brandon Klotz
+- Chair: Jace Browning
+- Vice Chair: Allen Clark
 - Treasurer: Joel Anderson
-- Jace Browning
-- Traci Montgomery
+- Secretary: Sarah Titus
+- Brandon Klotz
 - Lee Mueller
-- Sarah Titus
+- Traci Montgomery
 
 <br>
 
