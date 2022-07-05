@@ -1,8 +1,8 @@
 ---
 date: 2018-02-02T10:58:08-04:00
-description: "Updates Provide New Insights Of Grand Rapids' Budget"
-image: "/images/posts/open_budget.jpg"
-tags: ["civic tech, Grand Rapids, Citizen Labs, open budget, project"]
+description: Read new insights on Grand Rapids' Budget.
+image: /images/posts/open_budget.jpg
+tags: [civic tech, Grand Rapids, Citizen Labs, open budget, project]
 title: "FY2018 Budget Added to Open Budget: GR"
 ---
 

@@ -89,10 +89,10 @@ params:
       icon: nonprofit-18
   section3:
     title: Recent Accomplishment
-    subtitle: Adopt A Drain - Lower Grand River Watershed
-    image: projects/adoptadrain.png
+    subtitle: Michigan Ballot Buddies
+    image: projects/ballotbuddies.png
     buttonText: Learn more
-    buttonLink: https://www.lgrow.org/adopt-a-drain
+    buttonLink: https://buddies.michiganelections.io/about/
   section4:
     title: Our Civic Partners Love Us!
     subtitle:

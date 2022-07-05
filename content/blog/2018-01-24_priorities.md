@@ -1,9 +1,9 @@
 ---
 date: 2018-01-24T10:58:08-04:00
-description: "Delivering on our mission."
-image: "/images/posts/hero-light-festival.jpg"
-tags: [civic tech,citizen labs]
-title: "2018 Opportunities"
+description: Delivering on our mission.
+image: /images/posts/hero-light-festival.jpg
+tags: [civic tech, citizen labs]
+title: 2018 Opportunities
 ---
 
 2017 was an exciting year for Citizen Labs. We grew as an organization, spending a great deal of energy in creating a strong foundation that can deliver on our mission.
