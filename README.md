@@ -1,4 +1,4 @@
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/citizenlabsgr/website/GitHub%20Pages)](https://github.com/citizenlabsgr/website/actions?query=branch%3Amain)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/citizenlabsgr/website/gh-pages.yml?branch=main)](https://github.com/citizenlabsgr/website/actions?query=branch%3Amain)
 
 # Citizen Labs Website
 
