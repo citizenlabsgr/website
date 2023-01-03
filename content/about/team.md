@@ -14,7 +14,6 @@ We are an all-volunteer organization. Our Board helps coordinate and set priorit
 - Treasurer: Joel Anderson
 - Secretary: Sarah Titus
 - Brandon Klotz
-- Lee Mueller
 - Traci Montgomery
 
 <br>
