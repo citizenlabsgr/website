@@ -7,11 +7,11 @@ include_footer: true
 
 {{% title3 "What We Do" %}}
 
-We build open source projects using public data to help improve civic engagement in our communities.Join us to learn what we're working on and how you can help!
+We build open source projects using public data to help improve civic engagement in our communities. Join us to learn what we're working on and how you can help!
 
 <br>
 
-We gather virtually to share successes, seek support, and work on individual and group projects. Citizen Labs has a [Code of Conduct](/about/conduct/) that applies to all of our activities, events, and digital forums. We do not tolerate discrimination or harassment of any kind.
+We gather to share successes, seek support, and work on individual and group projects. Citizen Labs has a [Code of Conduct](/about/conduct/) that applies to all of our activities, events, and digital forums. We do not tolerate discrimination or harassment of any kind.
 
 <br>
 
