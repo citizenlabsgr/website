@@ -41,3 +41,40 @@ Join us on [Slack](https://join.slack.com/t/citizenlabs/shared_invite/enQtNTQ0Mj
 **6:30 - 9:00 pm** Work on Projects. It is best to bring a computer.
 
 -->
+
+<hr>
+
+<style>
+    .mittens {
+        position: relative;
+        display: flex;
+        align-items: center;
+    }
+    .speech-bubble {
+        display: inline-block;
+        margin-left: 10px;
+        padding: 20px;
+        background-color: #f1f1f1;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        font-size: 24px;
+    }
+
+    .speech-bubble:before {
+        content: '';
+        position: absolute;
+        width: 0;
+        height: 0;
+        border-top: 8px solid transparent;
+        border-bottom: 8px solid transparent;
+        border-right: 8px solid #f1f1f1;
+        left: -8px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+</style>
+
+<a href="https://vote.citizenlabs.org" class="mittens">
+    <img src="/images/illustrations/icons/mittens.svg" alt="Mittens">
+    <div class="speech-bubble">Hi there! Are you registered to vote?</div>
+</a>
