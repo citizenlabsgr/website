@@ -42,14 +42,16 @@ params:
     url: /our_work
   - title: About
     sublinks:
-    - title: Citizen Labs Cohort
+    - title: Our Team
+      url: /about/team
+    - title: Our Cohort
       url: /about/cohort
     - title: Code of Conduct
       url: /about/conduct
     - title: Sponsors
       url: /about/sponsor
-    - title: Our Team
-      url: /about/team
+    - title: Donations
+      url: /about/donate
   - title: News
     url: /blog/
   - title: Contact
@@ -128,12 +130,12 @@ params:
       column1:
         title: "About"
         links:
-        - text: Citizen Labs Cohort
+        - text: Our Team
+          link: /about/team
+        - text: Our Cohort
           link: /about/cohort
-        - text: Code of Conduct
-          link: /about/conduct
-        - text:
-          link:
+        - text: Donations
+          link: /about/donate
       column2:
         title: "Docs"
         links:
@@ -143,12 +145,13 @@ params:
           link: https://github.com/citizenlabsgr/community
         - text: Start a Nonprofit
           link: https://github.com/citizenlabsgr/opensourced-nonprofit
-        - text: GR Links
-          link: https://github.com/citizenlabsgr/links
+
       column3:
         title: "News"
         links:
         - text: Our Blog
           link: /blog/
-        - text:
-          link:
+        - text: GR Links
+          link: https://github.com/citizenlabsgr/links
+        - text: Code of Conduct
+          link: /about/conduct
