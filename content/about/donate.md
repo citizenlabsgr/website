@@ -33,7 +33,7 @@ include_footer: true
   }
 </style>
 
-We accept donation via GitHub Sponsors. Thanks you for supporting our projects!
+We accept donations via GitHub Sponsors. Thanks you for supporting our projects!
 
 <br>
 
