@@ -22,7 +22,21 @@ We use modern tools and practices to improve how decisions are made and services
 
 <br>
 
-View projects by status: [Active Development](#dev) | [Live](#live) | [Discovery](#discovery)
+Check out [GitHub](https://github.com/citizenlabsgr) to see which projects are being actively worked on. Some highlights include:
+
+<br>
+
+• [Mittens](https://github.com/citizenlabsgr/mittens) is a chat bot to check your voter registration status
+
+• [Ballot Preview](https://github.com/citizenlabsgr/ballotbuddies) lets you view and fill out annotated sample ballots
+
+• [Ballot Buddies](https://github.com/citizenlabsgr/ballotbuddies) is a web app to track your friends' absentee ballots
+
+• [Elections API](https://github.com/citizenlabsgr/elections-api) provides registration and ballot data to the above projects
+
+<br>
+
+Below are a list of additional project ideas by status: [Active Development](#dev) | [Live](#live) | [Discovery](#discovery)
 
 <hr>
 
