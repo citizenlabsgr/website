@@ -6,105 +6,87 @@
     <description>Recent content in We Love Our City. on Citizen Labs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://citizenlabs.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://citizenlabs.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adopt-a-Drain Launched</title>
       <link>http://citizenlabs.org/blog/2019-12-23-adopt-a-drain/</link>
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
-      
       <guid>http://citizenlabs.org/blog/2019-12-23-adopt-a-drain/</guid>
       <description>In our partnership with LGROW, we finally launched Adopt-a-Drain.
 July 2022 Update: 1381 drains have been adopted!</description>
     </item>
-    
     <item>
       <title>Happy Birthday: Citizen Labs</title>
       <link>http://citizenlabs.org/blog/2018-04-17_happy_birthday/</link>
       <pubDate>Wed, 25 Apr 2018 10:58:08 -0400</pubDate>
-      
       <guid>http://citizenlabs.org/blog/2018-04-17_happy_birthday/</guid>
       <description>Citizen Labs has much to celebrate! It was just one year ago when our application to become 501c3 nonprofit was approved. We have seen tremendous growth as measured by budget, hack night involvement, organization, community feedback, and partnerships.
 By The Numbers 102 Slack members 41 Active Slack users 172 Meetup members 219 Facebook followers 4 Deployed Projects Accomplishments January - March: Our efforts were heavily focused on creating the organization.</description>
     </item>
-    
     <item>
       <title>FY2018 Budget Added to Open Budget: GR</title>
       <link>http://citizenlabs.org/blog/2018-02-02_open_budget/</link>
       <pubDate>Fri, 02 Feb 2018 10:58:08 -0400</pubDate>
-      
       <guid>http://citizenlabs.org/blog/2018-02-02_open_budget/</guid>
       <description>Interested in the City of Grand Rapids&amp;rsquo; budget, but don&amp;rsquo;t have time to thumb through the 326 page document? A great place to start in learning more about the nearly $530 Million budget is by visiting Open Budget: Grand Rapids.
 What&amp;rsquo;s New? Open Budget: Grand Rapids now includes the FY2018 budget information that was approved by the City Council in June 2017.
 An interactive timeline of the budget process. This makes it much easier to know when departments make their requests and when citizens can make their voices heard at public hearings.</description>
     </item>
-    
     <item>
       <title>2018 Opportunities</title>
       <link>http://citizenlabs.org/blog/2018-01-24_priorities/</link>
       <pubDate>Wed, 24 Jan 2018 10:58:08 -0400</pubDate>
-      
       <guid>http://citizenlabs.org/blog/2018-01-24_priorities/</guid>
       <description>2017 was an exciting year for Citizen Labs. We grew as an organization, spending a great deal of energy in creating a strong foundation that can deliver on our mission.
 We have set bold goals to deliver on our mission.
 Citizen Labs works together with our entire community to promote transparency, better understand problems, and support informed decisions. And to be purposeful in choosing the opportunities that may cross our path.</description>
     </item>
-    
     <item>
       <title>Code of Conduct</title>
       <link>http://citizenlabs.org/about/conduct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://citizenlabs.org/about/conduct/</guid>
       <description>Respect Citizen Labs is an intentionally positive community: that recognizes and celebrates creativity; collaboration of independent creators (and independence); and the diversity of people, cultures, and opinions that are a core strength of Citizen Labs.
 Citizen Labs spaces are an inclusive environment, based on treating all individuals respectfully, regardless of gender identity, sexual orientation, age, disability, medical conditions, nationality, ethnicity, religion (or lack thereof), physical appearance, or technology preferences.
 We value respectful behavior above individual opinions.</description>
     </item>
-    
     <item>
       <title>Contact</title>
       <link>http://citizenlabs.org/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://citizenlabs.org/contact/</guid>
       <description>Your Name Email Address An email address is required. Message Where To Find Us On Hacknights On the first and third Tuesday of every month we meet for a Hacknight, a chance to build, share and learn about tools to create, support, and serve the public good. To learn more and RSVP for an upcoming Hacknight please visit our Meetup page.
 Hacknights take place at The Factory, at 6pm on the fourth floor above the San Chez restaurant.</description>
     </item>
-    
     <item>
       <title>Donate to Citizen Labs</title>
       <link>http://citizenlabs.org/about/donate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://citizenlabs.org/about/donate/</guid>
       <description>We accept donations via GitHub Sponsors. Thanks you for supporting our projects!</description>
     </item>
-    
     <item>
       <title>Empowering people to make a difference</title>
       <link>http://citizenlabs.org/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://citizenlabs.org/people/</guid>
       <description>There is nothing more important than the people that volunteer with Citizen Labs.
 We are people that live, work, and play in Grand Rapids metro area and more broadly in West Michigan. Citizen Labs provide people with the permission, inspiration, motivation, and place to collaborate with others to improve our communities.
 We ask questions. We experiment and sometimes fail, but understand that learning cannot happen without failure. We apply what we learn and work to always make improvements.</description>
     </item>
-    
     <item>
       <title>Join Us</title>
       <link>http://citizenlabs.org/join/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://citizenlabs.org/join/</guid>
       <description>What We Do We build open source projects using public data to help improve civic engagement in our communities. Join us to learn what we&amp;rsquo;re working on and how you can help!
 We gather to share successes, seek support, and work on individual and group projects. Citizen Labs has a Code of Conduct that applies to all of our activities, events, and digital forums. We do not tolerate discrimination or harassment of any kind.</description>
     </item>
-    
     <item>
       <title>Our Work</title>
       <link>http://citizenlabs.org/our_work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://citizenlabs.org/our_work/</guid>
       <description>We use modern tools and practices to improve how decisions are made and services delivered. We use the following guidelines when working on projects:
 • Design with users, not for them
@@ -114,71 +96,58 @@ We gather to share successes, seek support, and work on individual and group pro
 Check out GitHub to see which projects are being actively worked on. Some highlights include:
 • Mittens is a chat bot to check your voter registration status</description>
     </item>
-    
     <item>
       <title>Sponsors</title>
       <link>http://citizenlabs.org/about/sponsor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://citizenlabs.org/about/sponsor/</guid>
       <description>Thank you to all of our sponsors who make our work possible through their important contributions to Citizen Labs.
 Adobe Airtable Amazon Web Services Bugsnag Data.World The Factory Google Heroku Hootsuite Intuit Mailchimp Meetup Microsoft Peppino&#39;s Slack </description>
     </item>
-    
     <item>
       <title>Sponsors</title>
       <link>http://citizenlabs.org/about/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://citizenlabs.org/about/sponsors/</guid>
       <description>Thank you to all of our sponsors who make our work possible through their important contributions to Citizen Labs.
 Adobe Airtable Amazon Web Services Bugsnag Data.World The Factory Google Heroku Hootsuite Intuit Mailchimp Meetup Microsoft Peppino&amp;rsquo;s Slack </description>
     </item>
-    
     <item>
       <title>Team</title>
       <link>http://citizenlabs.org/about/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://citizenlabs.org/about/team/</guid>
       <description>We are an all-volunteer organization. Our Board helps coordinate and set priorities for Citizen Labs efforts.
 Our Members
-Chair: Jace Browning Vice Chair: Allen Clark Treasurer: Joel Anderson Secretary: Sarah Titus Brandon Klotz Traci Montgomery Our Address
+Chair: Jace Browning Vice Chair: Allen Clark Treasurer: Joel Anderson Secretary: Sarah Titus Brandon Klotz Our Address
 Citizen Labs 77 Monroe Center St NW Suite 600 Grand Rapids, MI 49503</description>
     </item>
-    
     <item>
       <title>The Citizen Labs Cohort</title>
       <link>http://citizenlabs.org/about/cohort/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://citizenlabs.org/about/cohort/</guid>
       <description>Community, technology, and empowerment are things that we strongly believe in. We also hope to make the biggest positive impact that we can.
 While most of our work involves open data and open source software there are other organizations whose missions are consistent with ours and their work is complimentary to ours.
 We have created the Citizen Labs Cohort as a way to leverage our 501c3 status to support formal and informal groups with their work.</description>
     </item>
-    
     <item>
       <title>What is Open Data?</title>
       <link>http://citizenlabs.org/open_data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://citizenlabs.org/open_data/</guid>
       <description>From the Open Data Handbook we get the following definition&amp;hellip;
 Open data is data that can be freely used, re-used and redistributed by anyone - subject only, at most, to the requirement to attribute and share-alike.
 Here are the most important features of open data:
 Availability and Access: the data must be available as a whole and at no more than a reasonable reproduction cost, preferably by downloading over the internet.</description>
     </item>
-    
     <item>
       <title>What is Open Source?</title>
       <link>http://citizenlabs.org/open_source/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://citizenlabs.org/open_source/</guid>
       <description>From the Open Data Handbook we get the following definition&amp;hellip;
 Software for which the source code is available under an open license. Not only can the software be used for free, but users with the necessary technical skills can inspect the source code, modify it and run their own versions of the code, helping to fix bugs, develop new features, etc. Some large open source software projects have thousands of volunteer contributors.</description>
     </item>
-    
   </channel>
 </rss>
