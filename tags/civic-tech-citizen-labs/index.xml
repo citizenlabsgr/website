@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>civic tech, Citizen Labs on Citizen Labs</title>
+    <title>Civic Tech, Citizen Labs on Citizen Labs</title>
     <link>http://citizenlabs.org/tags/civic-tech-citizen-labs/</link>
-    <description>Recent content in civic tech, Citizen Labs on Citizen Labs</description>
+    <description>Recent content in Civic Tech, Citizen Labs on Citizen Labs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Dec 2019 00:00:00 +0000</lastBuildDate>
@@ -13,16 +13,14 @@
       <link>http://citizenlabs.org/blog/2019-12-23-adopt-a-drain/</link>
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
       <guid>http://citizenlabs.org/blog/2019-12-23-adopt-a-drain/</guid>
-      <description>In our partnership with LGROW, we finally launched Adopt-a-Drain.
-July 2022 Update: 1381 drains have been adopted!</description>
+      <description>In our partnership with LGROW, we finally launched Adopt-a-Drain.&#xA;July 2022 Update: 1381 drains have been adopted!</description>
     </item>
     <item>
       <title>Happy Birthday: Citizen Labs</title>
       <link>http://citizenlabs.org/blog/2018-04-17_happy_birthday/</link>
       <pubDate>Wed, 25 Apr 2018 10:58:08 -0400</pubDate>
       <guid>http://citizenlabs.org/blog/2018-04-17_happy_birthday/</guid>
-      <description>Citizen Labs has much to celebrate! It was just one year ago when our application to become 501c3 nonprofit was approved. We have seen tremendous growth as measured by budget, hack night involvement, organization, community feedback, and partnerships.
-By The Numbers 102 Slack members 41 Active Slack users 172 Meetup members 219 Facebook followers 4 Deployed Projects Accomplishments January - March: Our efforts were heavily focused on creating the organization.</description>
+      <description>Citizen Labs has much to celebrate! It was just one year ago when our application to become 501c3 nonprofit was approved. We have seen tremendous growth as measured by budget, hack night involvement, organization, community feedback, and partnerships.&#xA;By The Numbers 102 Slack members 41 Active Slack users 172 Meetup members 219 Facebook followers 4 Deployed Projects Accomplishments January - March: Our efforts were heavily focused on creating the organization.</description>
     </item>
   </channel>
 </rss>
