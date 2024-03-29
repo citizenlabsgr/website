@@ -34,4 +34,4 @@ A very special shoutout goes to:
 
 ## Who We are
 
-[Open Budget: Grand Rapids](https://grbudget.citizenlabs.org) is a project of [Citizen Labs](https://citizenlabs.org) and the result of many contributors including coders, community advocates, and city officials. We're looking for ideas on ways that we can contribute to the Grand Rapids community. If this sounds interesting and you would like to get involved please [contact us](https://citizenlabs.org/contact/).
+[Open Budget: Grand Rapids](https://grbudget.citizenlabs.org) is a project of [Citizen Labs](https://citizenlabs.org) and the result of many contributors including coders, community advocates, and city officials. We're looking for ideas on ways that we can contribute to the Grand Rapids community. If this sounds interesting and you would like to get involved please [contact us](https://citizenlabs.org/#contact).
