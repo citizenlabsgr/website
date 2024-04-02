@@ -18,7 +18,7 @@ We have created the Citizen Labs Cohort as a way to leverage our 501c3 status to
 
 <br>
 
-Our Cohort includes:
+Our current and past Cohort includes:
 
 <div class="content">
   <ul>
