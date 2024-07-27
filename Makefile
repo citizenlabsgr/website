@@ -1,6 +1,13 @@
 .PHONY: all
 all: install
 
+.PHONY: bootstrap
+bootstrap:
+	asdf plugin add hugo
+	asdf install
+	brew install nmap
+	pipx install sappy
+
 .PHONY: install
 install: themes/.flag
 themes/.flag: .gitmodules
@@ -25,7 +32,6 @@ run-production: build
 
 .PHONY: scan
 scan:
-	- brew install nmap
 	nmap --script ssl-enum-ciphers -p 80,443,8880,8443,8080,2096,2095,2087,2086,2083,2082,2053,2052 citizenlabs.org
 	curl -s -D- https://citizenlabs.org | grep -i 'x-frame-options\|content-security-policy'
 
