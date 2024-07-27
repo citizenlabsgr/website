@@ -23,6 +23,12 @@ run: install
 run-production: build
 	sappy public --port=1313
 
+.PHONY: scan
+scan:
+	- brew install nmap
+	nmap --script ssl-enum-ciphers -p 80,443,8880,8443,8080,2096,2095,2087,2086,2083,2082,2053,2052 citizenlabs.org
+	curl -s -D- https://citizenlabs.org | grep -i 'x-frame-options\|content-security-policy'
+
 .PHONY: clean
 clean:
 	rm -rf public themes
