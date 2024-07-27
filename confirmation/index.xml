@@ -5,7 +5,6 @@
     <link>http://citizenlabs.org/confirmation/</link>
     <description>Recent content in Newsletter Confirmation on Citizen Labs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="http://citizenlabs.org/confirmation/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://citizenlabs.org/confirmation/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
