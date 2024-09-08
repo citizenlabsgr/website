@@ -27,6 +27,6 @@ We are an all-volunteer organization. Our Board helps coordinate and set priorit
 
 Citizen Labs
 <br>
-77 Monroe Center St NW Suite 600
+77 Monroe Center St NW Ste 600
 <br>
 Grand Rapids, MI 49503
