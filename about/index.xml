@@ -4,70 +4,50 @@
     <title>About Citizen Labs on Citizen Labs</title>
     <link>http://citizenlabs.org/about/</link>
     <description>Recent content in About Citizen Labs on Citizen Labs</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://citizenlabs.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://citizenlabs.org/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code of Conduct</title>
       <link>http://citizenlabs.org/about/conduct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://citizenlabs.org/about/conduct/</guid>
-      <description>Respect Citizen Labs is an intentionally positive community: that recognizes and celebrates creativity; collaboration of independent creators (and independence); and the diversity of people, cultures, and opinions that are a core strength of Citizen Labs.
-Citizen Labs spaces are an inclusive environment, based on treating all individuals respectfully, regardless of gender identity, sexual orientation, age, disability, medical conditions, nationality, ethnicity, religion (or lack thereof), physical appearance, or technology preferences.
-We value respectful behavior above individual opinions.</description>
+      <description>Respect Citizen Labs is an intentionally positive community: that recognizes and celebrates creativity; collaboration of independent creators (and independence); and the diversity of people, cultures, and opinions that are a core strength of Citizen Labs.&#xA;Citizen Labs spaces are an inclusive environment, based on treating all individuals respectfully, regardless of gender identity, sexual orientation, age, disability, medical conditions, nationality, ethnicity, religion (or lack thereof), physical appearance, or technology preferences.&#xA;We value respectful behavior above individual opinions.</description>
     </item>
-    
     <item>
       <title>Donate to Citizen Labs</title>
       <link>http://citizenlabs.org/about/donate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://citizenlabs.org/about/donate/</guid>
       <description>We accept donations via GitHub Sponsors. Thanks you for supporting our projects!</description>
     </item>
-    
     <item>
       <title>Sponsors</title>
       <link>http://citizenlabs.org/about/sponsor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://citizenlabs.org/about/sponsor/</guid>
-      <description>Thank you to all of our sponsors who make our work possible through their important contributions to Citizen Labs.
-Adobe Airtable Amazon Web Services Bugsnag Data.World The Factory Google Heroku Hootsuite Intuit Mailchimp Meetup Microsoft Peppino&#39;s Slack </description>
+      <description>Thank you to all of our sponsors who make our work possible through their important contributions to Citizen Labs.&#xA;Adobe Airtable Amazon Web Services Bugsnag Data.World The Factory Google Heroku Hootsuite Intuit Mailchimp Meetup Microsoft Peppino&#39;s Slack </description>
     </item>
-    
     <item>
       <title>Sponsors</title>
       <link>http://citizenlabs.org/about/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://citizenlabs.org/about/sponsors/</guid>
-      <description>Thank you to all of our sponsors who make our work possible through their important contributions to Citizen Labs.
-Adobe Airtable Amazon Web Services Bugsnag Data.World The Factory Google Heroku Hootsuite Intuit Mailchimp Meetup Microsoft Peppino&amp;rsquo;s Slack </description>
+      <description>Thank you to all of our sponsors who make our work possible through their important contributions to Citizen Labs.&#xA;Adobe Airtable Amazon Web Services Bugsnag Data.World The Factory Google Heroku Hootsuite Intuit Mailchimp Meetup Microsoft Peppino&amp;rsquo;s Slack </description>
     </item>
-    
     <item>
       <title>Team</title>
       <link>http://citizenlabs.org/about/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://citizenlabs.org/about/team/</guid>
-      <description>We are an all-volunteer organization. Our Board helps coordinate and set priorities for Citizen Labs efforts.
-Our Members
-Chair: Jace Browning Vice Chair: Allen Clark Treasurer: Joel Anderson Secretary: Sarah Titus Brandon Klotz Our Address
-Citizen Labs 77 Monroe Center St NW Ste 600 Grand Rapids, MI 49503</description>
+      <description>We are an all-volunteer organization. Our Board helps coordinate and set priorities for Citizen Labs efforts.&#xA;Our Members&#xA;Chair: Jace Browning Vice Chair: Allen Clark Treasurer: Joel Anderson Secretary: Sarah Titus Brandon Klotz Our Address&#xA;Citizen Labs 77 Monroe Center St NW Ste 600 Grand Rapids, MI 49503</description>
     </item>
-    
     <item>
       <title>The Citizen Labs Cohort</title>
       <link>http://citizenlabs.org/about/cohort/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://citizenlabs.org/about/cohort/</guid>
-      <description>Community, technology, and empowerment are things that we strongly believe in. We also hope to make the biggest positive impact that we can.
-While most of our work involves open data and open source software there are other organizations whose missions are consistent with ours and their work is complimentary to ours.
-We have created the Citizen Labs Cohort as a way to leverage our 501c3 status to support formal and informal groups with their work.</description>
+      <description>Community, technology, and empowerment are things that we strongly believe in. We also hope to make the biggest positive impact that we can.&#xA;While most of our work involves open data and open source software there are other organizations whose missions are consistent with ours and their work is complimentary to ours.&#xA;We have created the Citizen Labs Cohort as a way to leverage our 501c3 status to support formal and informal groups with their work.</description>
     </item>
-    
   </channel>
 </rss>
