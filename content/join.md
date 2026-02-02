@@ -73,8 +73,3 @@ Join us on [Slack](https://join.slack.com/t/citizenlabs/shared_invite/enQtNTQ0Mj
         transform: translateY(-50%);
     }
 </style>
-
-<a href="https://vote.citizenlabs.org" class="mittens">
-    <img src="/images/illustrations/icons/mittens.svg" alt="Mittens">
-    <div class="speech-bubble">Hi there! Are you registered to vote?</div>
-</a>
