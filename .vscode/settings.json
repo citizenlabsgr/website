@@ -32,5 +32,6 @@
         "spratt",
         "sublinks",
         "wmrn"
-    ]
+    ],
+    "djlint.showInstallError": false
 }

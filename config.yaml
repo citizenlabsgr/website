@@ -6,8 +6,7 @@ MetaDataFormat: yaml
 googleAnalytics: UA-115392197-1
 # Disables warnings
 disableKinds:
- -taxonomy
- -taxonomyTerm
+  - taxonomy
 markup:
   goldmark:
     renderer:
