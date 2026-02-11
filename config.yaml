@@ -15,7 +15,7 @@ markup:
 params:
   openGraph: true
   defaultKeywords: ["citizen labs", "open data", "grand rapids", "open source", "open budget", "civic tech"]
-  description: Citizen Labs builds open source tools powered by public data to strengthen civic engagement in our communities.
+  description: Building open source tools powered by public data to strengthen civic engagement in our communities.
   navbarlogo:
     image: logos/CL_Logo-04-orange.png
     link: /
