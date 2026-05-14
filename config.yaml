@@ -90,10 +90,10 @@ params:
       icon: nonprofit-18
   section3:
     title: Recent Accomplishment
-    subtitle: Michigan Ballot Buddies
-    image: projects/ballotbuddies.png
+    subtitle: "Multimodality: Plan GR"
+    image: projects/plangr.png
     buttonText: Learn more
-    buttonLink: https://app.michiganelections.io/about/
+    buttonLink: https://plangr.com
   section4:
     title: Our Civic Partners Love Us!
     subtitle:
